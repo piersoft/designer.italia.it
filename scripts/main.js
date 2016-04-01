@@ -102,7 +102,7 @@
     });
   });
 
-  $('article img').on('click', function () {
+  $('article > p > img').on('click', function () {
     $('<img class="lg-modal modal fade" src="' + $(this).attr('src') + '">').modal('show');
   });
 

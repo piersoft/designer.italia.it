@@ -45,6 +45,17 @@ article {
   }
 }
 
+abbr {
+  border-bottom: none !important;
+}
+abbr:after {
+  content: '?';
+  vertical-align: super;
+  font-style:italic;
+  font-size:0.83em;
+  color: #777;
+}
+
 article table {
   @extend .table;
   @extend .table-striped;
