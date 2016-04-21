@@ -10,4 +10,5 @@ La misurazione del livello di usabilità dei siti web dovrebbe essere effettuata
 Le statistiche d’uso di siti già online forniscono indicazioni utili, seppur parziali, sull’efficacia dei contenuti.
 
 ### Protocollo per la realizzazione di test di usabiltà
-Per verificare rapidamente l’usabilità di un sito web si possono utilizzare tecniche come quelle suggerite dal [Protocollo per la realizzazione di test di usabilità semplificati](http://www.funzionepubblica.gov.it/glu)
+
+Per verificare rapidamente l’usabilità di un sito web si possono utilizzare tecniche come quelle suggerite dal [Protocollo eGLU per la realizzazione di test di usabilità semplificati](http://www.funzionepubblica.gov.it/glu)
