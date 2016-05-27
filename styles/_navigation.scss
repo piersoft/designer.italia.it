@@ -333,7 +333,9 @@ body {
   background: #013366;
   padding-top:0.4rem;
   .h4 {
-    color: white;
+    a {
+      color: white;
+    }
     margin: 0.2rem 0 0 0;
     line-height: 4rem;
     font-weight: bold;
