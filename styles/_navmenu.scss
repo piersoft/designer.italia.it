@@ -1,13 +1,19 @@
-.navgoco, .navgoco ul, .navgoco li {
+.navmenu, .navmenu ul, .navmenu li {
   padding: 0;
   list-style: none;
 }
 
-.navgoco ul {
+.navmenu ul {
+  display: none;
   padding: 0;
+
 }
 
-ul.navgoco {
+.navmenu li.active ul{
+  display: block;
+}
+
+ul.navmenu {
   margin-top: 4rem;
 
   @media (max-width: $screen-xs-max) {
@@ -19,15 +25,15 @@ ul.navgoco {
   }
 }
 
-.navgoco {
+.navmenu {
   margin: 0px;
 }
 
-.navgoco > li {
+.navmenu > li {
   border-bottom: 1px solid #e7e6e4;
 }
 
-.navgoco > li li {
+.navmenu > li li {
   border-bottom: 1px solid #e7e6e4;
 }
 
@@ -35,14 +41,14 @@ ul.navgoco {
   font-weight: 700;
 }
 
-.navgoco a {
+.navmenu a {
   color: #003e54;
   display: block;
   outline: none;
   text-decoration: none;
 }
 
-.navgoco li > a > span {
+.navmenu li > a > span {
   float: right;
   font-size: 1.23em;
   text-align: right;
@@ -50,11 +56,11 @@ ul.navgoco {
   display: inline-block;
 }
 
-.navgoco li > a:hover > span {
+.navmenu li > a:hover > span {
   color: #003e54;
 }
 
-.navgoco li > a > span:after {
+.navmenu li > a > span:after {
   @extend .glyphicon;
   line-height: 1;
   font-size: 1.23em;
@@ -68,7 +74,7 @@ ul.navgoco {
     font-size: 1em;
   }
 }
-.navgoco li.open > a > span:after {
+.navmenu li.open > a > span:after {
   @extend .glyphicon;
   line-height: 1;
   font-size: 1.23em;
@@ -83,25 +89,24 @@ ul.navgoco {
   }
 }
 
-.navgoco a:hover, .navgoco li.open.active > a, .navgoco li.open.active ul {
-  background-color: #cef1ff;
-  color: #003e54;
+
+.navmenu > li.open ul {
+  background: #e2f7ff;
+  border-top: 1px solid #e7e6e4;
+  li{
+    a{
+      &:hover{
+        background: #cef1ff;
+      }
+    }
+  }
 }
 
-.navgoco > li.open ul {
+.navmenu > li.open ul > li.open > a{
   background: #cef1ff;
 }
 
-.navgoco li.active ul li {
-  border-bottom: 1px solid #ffffff;
-}
-
-.navgoco > li.open.active > a  {
-  background-color: #f2f2f2;
-  border-bottom: 1px solid #ffffff;
-}
-
-.navgoco li a {
+.navmenu li a {
   font-size: 1em;
   line-height: 18px;
   padding-top: 20px;
@@ -109,13 +114,12 @@ ul.navgoco {
   padding-left: 1em;
   padding-right: 1em;
 
-  &.active {
+  &.current {
     font-weight: bold;
   }
 
   &:focus {
-    outline: #ff8c00 solid 3px !important;
-    background: none !important;
+    outline: #ff8c00 solid 2px !important;
     color: inherit !important;
   }
 
@@ -134,7 +138,7 @@ ul.navgoco {
   }
 }
 
-.navgoco > li > a {
+.navmenu > li > a {
   font-size: 1em;
   line-height: 18px;
   padding-top: 20px;
@@ -155,11 +159,11 @@ ul.navgoco {
   }
 }
 
-.navgoco li:last-child, .navgoco li ul li:last-child {
+.navmenu li:last-child, .navmenu li ul li:last-child {
   border: none; 
 }
 
-.navgoco ul li h4, .navgoco ul li .h4 {
+.navmenu ul li h4, .navmenu ul li .h4 {
   margin: 0;
   padding-top: 20px;
   padding-bottom: 20px;
@@ -185,27 +189,30 @@ ul.navgoco {
   }
 }
 
-.navgoco li.open.active ul li a {
+/*
+.navmenu li.open.active ul li a {
   padding-left: 3em;
 }
 
-.navgoco li.open.active ul li.open a.active {
+.navmenu li.open.active ul li.open a.active {
   background-color: #cccccc;
   border-bottom: 1px solid #ffffff;
 }
 
 
-.navgoco li.open.active ul li.open.active ul li a {
+.navmenu li.open.active ul li.open.active ul li a {
   padding-left: 6em;
 }
+*/
 
-.navgoco li li a {
+
+
+.navmenu li li a {
   text-indent:1em;
 }
-.navgoco li li li a {
+.navmenu li li li a {
   text-indent:2em;
 }
-.navgoco li a span {
+.navmenu li a span {
   text-indent: 0;
 }
-
