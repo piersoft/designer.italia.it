@@ -223,7 +223,7 @@
           $(this).click();
           return false;
         }
-      })
+      });
       itemLink.append(trigger);
     });
 
