@@ -199,7 +199,7 @@
     $('.navmenu ul').each(function(){
       var listItem = $(this).closest('li');
       var itemLink = listItem.find('> a');
-      var trigger = $('<span></span>').attr({title: 'Espandi il menu ' + $.trim(itemLink.text())} )
+      var trigger = $('<span></span>').attr({tabindex: 0, title: 'Espandi il menu ' + $.trim(itemLink.text())} )
       .on('click', function(ev){
         ev.preventDefault();
         var node = $(this).closest('a');
@@ -217,7 +217,13 @@
           node.siblings('ul').slideDown(300);
           node.parent().addClass('open'); 
         }
-      });
+      })
+      .on('keydown', function (e) {
+        if (e.which === 13 || e.which === 32) {
+          $(this).click();
+          return false;
+        }
+      })
       itemLink.append(trigger);
     });
 

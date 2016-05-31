@@ -53,7 +53,10 @@ ul.navmenu {
   font-size: 1.23em;
   text-align: right;
   width: 35px;
+  text-align: center;
   display: inline-block;
+  margin-top:-3px;
+  margin-right:-3px;
 }
 
 .navmenu li > a:hover > span {
@@ -104,6 +107,10 @@ ul.navmenu {
 
 .navmenu > li.open ul > li.open > a{
   background: #cef1ff;
+}
+
+.navmenu [tabindex="0"]:focus{
+  outline: #ff8c00 solid 2px!important;
 }
 
 .navmenu li a {
