@@ -26,7 +26,7 @@ Gli standard identificano i seguenti fattori misurabili:
 
 ### Il Web
 
-I principi generali derivati dalla progettazione di software trovano svariate aplicazioni nel mondo web, dove l’usabilità continua a essere un concetto di riferimento per migliorare la qualità dell'esperienza d’uso attraverso una navigazione chiara, contenuti comprensibili, procedure semplici, efficienti, in un gradevole contesto visivo.
+I principi generali derivati dalla progettazione di software trovano svariate applicazioni nel mondo web, dove l’usabilità continua a essere un concetto di riferimento per migliorare la qualità dell'esperienza d’uso attraverso una navigazione chiara, contenuti comprensibili, procedure semplici, efficienti, in un gradevole contesto visivo.
 
 Le ricerche mostrano che oggi il 73% delle persone usa internet dal proprio smartphone (Fonte: TechCrunch). Nell’88% dei casi le persone non ritornano su un sito che non funziona, (fonte: Econsultancy).  
 Questi dati mostrano come l’usabilità (o la sua assenza) possa influenzare l’esito di un servizio, anche semplicemente informativo, erogato da un sistema.
