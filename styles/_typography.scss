@@ -1,6 +1,6 @@
 html {
   color: color(colore-testo-principale);
-  font-family: $font-family-default;   
+  font-family: $font-family-default;
   /*  font-size: $font-size-base;*/
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
@@ -33,42 +33,49 @@ blockquote, blockquote p {
 /*
  *  Tipografia "responsive"
  *  ------------------------
- *  Riduce di una percentuale le dimensioni degli header 
+ *  Riduce di una percentuale le dimensioni degli header
  *  sugli schermi più piccoli
  */
 $small-header-delta: 0.6;
 
 h1, .h1 {
   line-height: $line-height-h1;
-  font-weight: bold;
+  font-weight: 700;
   @media screen and (max-width: $screen-sm) {
-    font-size: ceil($font-size-h1 * $small-header-delta);
-    line-height: ceil($line-height-h1 * $small-header-delta);    
+    font-size: $font-size-h1-sm;
   }
 }
 h2, .h2 {
   line-height: $line-height-h2;
-  font-weight: bold;
+  font-weight: 700;
   @media screen and (max-width: $screen-sm) {
-    font-size: ceil($font-size-h2 * $small-header-delta);
-    line-height: ceil($line-height-h2 * $small-header-delta);    
+    font-size: $font-size-h2-sm;
   }
 }
 h3, .h3 {
   line-height: $line-height-h3;
-  font-weight: bold;
+  font-weight: 700;
+  @media screen and (max-width: $screen-sm) {
+    font-size: $font-size-h3-sm;
+  }
 }
 h4, .h4 {
   line-height: $line-height-h4;
-  font-weight: bold;
+  font-weight: 700;
 }
 h5, .h5 {
   line-height: $line-height-h5;
   font-variant: small-caps;
 }
 h6, .h6 {
-  font-weight: bold;
+  font-weight: 700;
   line-height: $line-height-h6;
+}
+
+h4, .h4,
+h5, .h5,
+h6, .h6 {
+  margin-top: ($line-height-computed);
 }
 
 /*  Font variants wappers

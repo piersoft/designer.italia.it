@@ -4,12 +4,12 @@ title: Tipografia
 published: true
 ---
 
-### Web font 
+### Web font
 
 Le Web font sono famiglie di caratteri tipografici la cui licenza d’uso permette il download remoto per la loro visualizzazione in pagine web. Introdotte dalla versione CSS2 con la dichiarazione `@font-face`, le Web font sono oggi pienamente compatibili con la maggioranza dei browser (IE4+, Firefox 3.5+, Safari 3.1+, Opera 10+, Chrome 4.0+) e costituiscono la soluzione più efficace per una coerente composizione tipografica. Google Fonts è una piattaforma di distribuzione gratuita di Web font.
 
-### Titillium Web 
-Il carattere tipografico istituzionale è la famiglia di font [Titillium Web](https://www.google.com/fonts/specimen/Titillium+Web), realizzato come progetto didattico all’interno all’Accademia di Belle Arti di Urbino e distribuito con licenza Open Font da Google Fonts. La famiglia di caratteri Titillium Web è composta da numerose font di diversi pesi tipografici (dall’Extra-Light all’Ultra-Bold) garantendo così un’estrema flessibilità di utilizzo nelle composizioni dei testi. 
+### Titillium Web
+Il carattere tipografico istituzionale è la famiglia di font [Titillium Web](https://www.google.com/fonts/specimen/Titillium+Web), realizzato come progetto didattico all’interno all’Accademia di Belle Arti di Urbino e distribuito con licenza Open Font da Google Fonts. La famiglia di caratteri Titillium Web è composta da numerose font di diversi pesi tipografici (dall’Extra-Light all’Ultra-Bold) garantendo così un’estrema flessibilità di utilizzo nelle composizioni dei testi.
 
 #### Specimen della famiglia Titillium Web
 
@@ -66,35 +66,35 @@ Il carattere tipografico istituzionale è la famiglia di font [Titillium Web](ht
 <mark>SI PUÒ</mark> Per la realizzazione dei siti è consigliato l’utilizzo del carattere Titillium Web, ma qualunque altra Web font che garantisca la leggibilità e un’analoga ampiezza di pesi tipografici può essere usata.
 </div>
 
-### Dimensioni e interlinea del testo 
+### Dimensioni e interlinea del testo
 
 <div class="lg-callout lg-callout-must">
 <mark>SI DEVE</mark> Un paragrafo di testo non deve mai essere composto in una dimensione inferiore a 12px. La dimensione standard del paragrafo di testo è prevista in 18px. Un paragrafo di testo deve essere composto sempre nel peso Regular, mai in Light o Bold. L’interlinea avrà generalmente una dimensione pari a circa il 150% della dimensione del corpo del carattere (per esempio un testo in corpo 18px avrà un’interlinea di 27px).
 </div>
 
-### Allineamento 
+### Allineamento
 <div class="lg-callout lg-callout-should">
 <mark>SI DOVREBBE</mark> Un paragrafo di testo deve essere preferibilmente composto con allineamento a sinistra. Sono generalmente sconsigliati gli allineamenti centrati (a epigrafe) e a destra. L’allineamento giustificato e senza sillabazione è invece sempre da evitare per l’incongrua spaziatura delle parole e la minore leggibilità che comporta.
 </div>
 
-### Giustezza 
+### Giustezza
 
 <div class="lg-callout lg-callout-must">
   <mark>SI DEVE</mark> Ogni riga di testo non deve mai superare la lunghezza massima di 75 caratteri.
 </div>
 
-### Markup semantico 
+### Markup semantico
 
 <div class="lg-callout lg-callout-should">
 <mark>SI DOVREBBE</mark> L’uso dei tag semantici consente di venire incontro ai requisiti di accessibilità, permettendo la corretta interpretazione del testo da parte dei device di ausilio alla lettura.
 </div>
 
 ### Composizione tabelle
-In genere nelle tabelle un corretto allineamento del testo e una giusta spaziatura fra le colonne e le righe 
-sono già in grado di creare la percezione delle strutture verticali e orizzontali che sottostanno al contenuto, 
-rendendo superflua la presenza di molte delle linee divisorie o dei fondini di cella. 
+In genere nelle tabelle un corretto allineamento del testo e una giusta spaziatura fra le colonne e le righe
+sono già in grado di creare la percezione delle strutture verticali e orizzontali che sottostanno al contenuto,
+rendendo superflua la presenza di molte delle linee divisorie o dei fondini di cella.
 
-Una tabella leggera (meno linee, meno colori) permette di concentrarsi meglio sul contenuto. 
+Una tabella leggera (meno linee, meno colori) permette di concentrarsi meglio sul contenuto.
 
 #### Esempio di tabella con CSS di default
 
@@ -155,36 +155,36 @@ Una tabella leggera (meno linee, meno colori) permette di concentrarsi meglio su
 <div class="lg-example-tipografia">
 <div>
   <h1>H1 Titolo</h1>
-  <small><strong>Titolo pagina</strong>: Titillium bold - corpo 72sp, interlinea 86sp</small>
+  <small><strong>Titolo pagina</strong>: Titillium bold - corpo 54px, interlinea 1.2</small>
 </div>
 
 <div>
   <h2>H2 Titolo</h2>
-  <small><strong>Titolo sezione</strong>: Titillium bold - corpo 60sp, interlinea 72sp</small>
+  <small><strong>Titolo sezione</strong>: Titillium bold - corpo 40px, interlinea 1.2</small>
 </div>
 
 <div>
 <h3>H3 Titolo</h3>
-  <small><strong>Titolo articolo</strong>: Titillium bold - corpo 36sp, interlinea 48sp</small>
+  <small><strong>Titolo articolo</strong>: Titillium bold - corpo 32px, interlinea 1.2</small>
 </div>
 
 <div>
   <h4>H4 Titolo</h4>
-  <small><strong>Titolo paragrafo</strong>: Titillium bold - corpo 24sp, interlinea 28sp</small>
+  <small><strong>Titolo paragrafo</strong>: Titillium bold - corpo 23px, interlinea 1.2</small>
 </div>
 
 <div>
   <h5>H5 Titolo</h5>
-  <small><strong>Testo grande</strong>: Titillium normal - corpo 21sp, interlinea 28sp</small>
+  <small><strong>Testo grande</strong>: Titillium normal - corpo 21px, interlinea 1.2</small>
 </div>
 
 <div>
   <h6>H6 Titolo</h6>
-  <small><strong>Titoletto</strong>: Titillium bold - corpo 18sp, interlinea 28sp</small>
+  <small><strong>Titoletto</strong>: Titillium bold - corpo 18px, interlinea 1.5</small>
 </div>
 
 <div>
-  <p>Ecco un bianco scenario per tratteggiarvi l'accompagnamento degli oggetti di sfondo che pur vivono. 
+  <p>Ecco un bianco scenario per tratteggiarvi l'accompagnamento degli oggetti di sfondo che pur vivono.
   Non ne sarò l'artefice impaziente</p>
   <small><strong>Testo standard</strong>: Titillium normal - corpo 18sp, interlinea 28sp</small>
 </div>
@@ -200,7 +200,7 @@ Una tabella leggera (meno linee, meno colori) permette di concentrarsi meglio su
 </div>
 
 <div>
-  <p><small>Ecco un bianco scenario per tratteggiarvi l'accompagnamento degli oggetti di sfondo che pur vivono. 
+  <p><small>Ecco un bianco scenario per tratteggiarvi l'accompagnamento degli oggetti di sfondo che pur vivono.
   Non ne sarò l'artefice impaziente</small></p>
   <small><strong>testo minimo</strong>: Titillium normal - corpo 16sp, interlinea 22sp</small>
 </div>
@@ -210,11 +210,11 @@ Una tabella leggera (meno linee, meno colori) permette di concentrarsi meglio su
 <!-- ![html](/images/stili-tipografici.png) -->
 
 ### Colore del testo
-Generalmente il colore del testo deve essere nero (#1C2024) o grigio (#5A6772) su fondo bianco (#FFFFFF). 
-Viceversa per le composizioni in negativo. Dove necessario possono essere usati colori diversi dal nero 
-e dal grigio purché sia garantito un rapporto di contrasto minimo tra testo e sfondo di 4,5:1 (AA), 
-come stabilito dalle specifiche di accessibilità. La verifica del rapporto di contrasto può essere 
-facilmente effettuata attraverso molti tool online. 
+Generalmente il colore del testo deve essere nero (#1C2024) o grigio (#5A6772) su fondo bianco (#FFFFFF).
+Viceversa per le composizioni in negativo. Dove necessario possono essere usati colori diversi dal nero
+e dal grigio purché sia garantito un rapporto di contrasto minimo tra testo e sfondo di 4,5:1 (AA),
+come stabilito dalle specifiche di accessibilità. La verifica del rapporto di contrasto può essere
+facilmente effettuata attraverso molti tool online.
 
 - [esempio di strumento online per la verifica del contrasto colori](http://snook.ca/technical/colour_contrast/colour.html)
 
@@ -259,11 +259,11 @@ facilmente effettuata attraverso molti tool online.
 </ul>
 
 #### Legature e crenatura
-La leggibilità del testo, nelle versioni dei browser più recenti, può essere migliorata con l’utilizzo della dichiarazione 
+La leggibilità del testo, nelle versioni dei browser più recenti, può essere migliorata con l’utilizzo della dichiarazione
 `text-rendering: optimizeLegibility` che attiva il controllo della crenatura del testo e la sostituzione automatica dei glifi delle legature. Attualmente la dichiarazione è riconosciuta in Safari 5 e Chrome. Firefox applica automaticamente la dichiarazione per i testi composti in corpo superiore a 20 px. Utilizzando una font OpenType possono esserne sfruttate le opzioni per le legature comuni e discrezionali con la dichiarazione
  `font-featuresettings: “liga” 1, “dlig” 1`.
 
--------------------------------------------------------------------------------- 
+--------------------------------------------------------------------------------
 
 <div class="small">
 <h4>Crediti</h4>
