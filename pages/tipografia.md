@@ -180,13 +180,13 @@ Una tabella leggera (meno linee, meno colori) permette di concentrarsi meglio su
 
 <div>
   <h6>H6 Titolo</h6>
-  <small><strong>Titoletto</strong>: Titillium bold - corpo 18px, interlinea 1.5</small>
+  <small><strong>Titoletto</strong>: Titillium bold - corpo 18px, interlinea 1.55</small>
 </div>
 
 <div>
   <p>Ecco un bianco scenario per tratteggiarvi l'accompagnamento degli oggetti di sfondo che pur vivono.
   Non ne sarò l'artefice impaziente</p>
-  <small><strong>Testo standard</strong>: Titillium normal - corpo 18sp, interlinea 28sp</small>
+  <small><strong>Testo standard</strong>: Titillium normal - corpo 18px, interlinea 1.55</small>
 </div>
 
 <div>
@@ -196,13 +196,13 @@ Una tabella leggera (meno linee, meno colori) permette di concentrarsi meglio su
       Non ne sarò l'artefice impaziente
     </p>
   </blockquote>
-  <small><strong>citazione</strong>: Titillium normal - corpo 18sp, interlinea 28sp, rientro 30sp</small>
+  <small><strong>citazione</strong>: Titillium normal - corpo 18px, interlinea 1.55</small>
 </div>
 
 <div>
   <p><small>Ecco un bianco scenario per tratteggiarvi l'accompagnamento degli oggetti di sfondo che pur vivono.
   Non ne sarò l'artefice impaziente</small></p>
-  <small><strong>testo minimo</strong>: Titillium normal - corpo 16sp, interlinea 22sp</small>
+  <small><strong>testo minimo</strong>: Titillium normal - corpo 16px, interlinea 1.55</small>
 </div>
 </div>
 ```
