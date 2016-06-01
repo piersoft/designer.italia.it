@@ -202,7 +202,7 @@ Una tabella leggera (meno linee, meno colori) permette di concentrarsi meglio su
 <div>
   <p><small>Ecco un bianco scenario per tratteggiarvi l'accompagnamento degli oggetti di sfondo che pur vivono.
   Non ne sarò l'artefice impaziente</small></p>
-  <small><strong>testo minimo</strong>: Titillium normal - corpo 16px, interlinea 1.55</small>
+  <small><strong>testo minimo</strong>: Titillium normal - corpo 15px, interlinea 1.55</small>
 </div>
 </div>
 ```
