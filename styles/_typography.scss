@@ -8,7 +8,7 @@ html {
 
 p, li {
   font-size: $font-size-base;
-  line-height: 1.5;
+  line-height: $line-height-base;
 /*  @media screen and (min-width: $screen-xs-min) {
     font-size: ceil($font-size-base * 1.1);
   }*/
@@ -26,18 +26,16 @@ ol, li {
 
 blockquote, blockquote p {
   font-size: 1.8rem;
-  line-height: 1.5;
+  line-height: $line-height-base;
   font-style: italic;
 }
 
 /*
  *  Tipografia "responsive"
  *  ------------------------
- *  Riduce di una percentuale le dimensioni degli header
+ *  Riduce le dimensioni degli header
  *  sugli schermi più piccoli
  */
-$small-header-delta: 0.6;
-
 h1, .h1 {
   line-height: $line-height-h1;
   font-weight: 700;
