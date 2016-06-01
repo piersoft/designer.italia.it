@@ -4,10 +4,10 @@
  */
 $sidebar-length: 80%;
 
-/* 
+/*
  * Per supportare explorer 8
- * queste due unità devono essere in px 
- * perché il body è blacklistato in pxtorem 
+ * queste due unità devono essere in px
+ * perché il body è blacklistato in pxtorem
 */
 $nav-banner-height: 54px;
 $navbar-height: 140px;
@@ -34,7 +34,7 @@ body {
   padding-bottom: 5rem;
 }
 
-.navbar__logo, 
+.navbar__logo,
 .footer__logo {
   @extend %will-transform;
   width: 7.4rem;
@@ -136,13 +136,13 @@ body {
     /* @FIXME */
     @media screen and (min-width: 340px) and (max-width: 500px) {
       font-size: 1.5rem;
-      line-height: 2rem;    
+      line-height: 2rem;
     }
 
     /* @FIXME */
     @media screen and (min-width: 500px) and (max-width: $screen-md) {
       font-size: 2.2rem;
-      line-height: 2.4rem;    
+      line-height: 2.4rem;
     }
 
   }
@@ -182,7 +182,7 @@ body {
       padding-top: 0.5rem;
       font-size: 2rem;
       /* @FIXME: ie 8 */
-      font-size: 20px; 
+      font-size: 20px;
       padding-top: 5px;
       /**/
     }
@@ -322,7 +322,7 @@ body {
 .nav-banner {
   @extend %will-transform;
   img, p {
-    @extend %will-transform;    
+    @extend %will-transform;
   }
   position: fixed;
   z-index: 99999;
@@ -356,6 +356,13 @@ body {
 .navbar_banner__logo {
   height: 4.5rem;
   width: 4.5rem;
+}
+
+@media screen and (min-width: $screen-md) and (max-height: 768px) {
+  .no-js .navbar-fixed-top,
+  .no-js .nav-banner {
+    position: absolute;
+  }
 }
 
 
