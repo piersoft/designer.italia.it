@@ -3,12 +3,12 @@ template: post.html
 title: Accessibilità
 published: true
 ---
-Le pubbliche amministrazioni devono rispettare 12 requisiti tecnici riportati nell’Allegato A di accessibilità dei siti web previsti dal Decreto Ministeriale 8 luglio 2005. 
+Le pubbliche amministrazioni devono rispettare 12 requisiti tecnici riportati nell’Allegato A di accessibilità dei siti web previsti dal Decreto Ministeriale 8 luglio 2005.
 
 #### Standard livello AA
 
 <div class="lg-callout lg-callout-must">
-<mark>SI DEVE</mark> Il sito web deve raggiungere il livello di conformità AA così come definito nelle [Web Content Accessibility Guidelines - WCAG 2.0](http://www.w3.org/Translations/WCAG20-it/). 
+<mark>SI DEVE</mark> Il sito web deve raggiungere il livello di conformità AA così come definito nelle [Web Content Accessibility Guidelines - WCAG 2.0](http://www.w3.org/Translations/WCAG20-it/).
 Le 12 linee guida e i criteri di conformità delle WCAG 2.0 discendono dai quattro principi che fanno da pilastri all’accessibilità del Web.
 </div>
 
@@ -31,7 +31,7 @@ Il contenuto deve essere abbastanza robusto da poter essere interpretato in modo
 #### Requisiti tecnici di accessibilità
 
 I requisiti sono stati definiti sulla base dei Principi, delle Linee guida e dei Criteri di successo contenuti nella Recommendation che il World Wide Web Consortium (W3C) – Web Accessibility Initiative (WAI) ha pubblicato l’11 dicembre 2008 e che contiene le Web Content Accessibility Guidelines 2.0 (WCAG 2.0)
-I requisiti tecnici qui elencati sono collegati ai relativi punti di controllo per le verifiche di conformità (sito AgID). 
+I requisiti tecnici qui elencati sono collegati ai relativi punti di controllo per le verifiche di conformità (sito AgID).
 
 [Requisito 1](http://www.agid.gov.it/dm-8-luglio-2005-allegato-A#requisito1) - **Alternative testuali**: fornire alternative testuali per qualsiasi contenuto di natura non testuale. Il testo alternativo deve essere fruito e trasformato secondo le necessità degli utenti; ad esempio convertito in stampa a caratteri ingranditi o in stampa Braille, letto mediante sintesi vocale, simboli o altra modalità.
 
@@ -60,7 +60,11 @@ I requisiti tecnici qui elencati sono collegati ai relativi punti di controllo p
 Se in un sito internet di una pubblica amministrazione sono presenti collegamenti ipertestuali che puntano a siti esterni per l'erogazione di servizi essenziali (esempio: albo pretorio, amministrazione trasparente, servizi di pagamento, ecc.) anche questi servizi devono rispettare i requisiti tecnici di accessibilità.
 
 #### Documenti allegati alle pagine del sito
-Il formato digitale dei documenti pubblicati [documenti allegati alla pagina web](http://www.agid.gov.it/dm-8-luglio-2005-allegato-A#formato) necessari a fornire informazioni o a erogare servizi deve essere utilizzabile con tecnologie compatibili con l’accessibilità e che il contenuto dei documenti deve essere conforme ai requisiti tecnici di accessibilità (per esempio, non pubblicare documenti in formato immagine).
+
+Qualora all'interno del sito vengano utilizzati - per fornire informazioni o erogare servizi - [documenti digitali in formato diverso dall'HTML](http://www.agid.gov.it/dm-8-luglio-2005-allegato-A#formato) (es. file PDF, documenti Word, ...), anche questi dovranno
+essere prodotti in modo da essere pienamente fruibili tramite tecnologie assistive (screen reader, lettori braille, ...).
+
+Il contenuto dei documenti deve essere conforme ai requisiti tecnici di accessibilità; per esempio, non pubblicare documenti in formato immagine.
 
 ### Normativa
 La [normativa completa e aggiornata sull’accessibilità](http://www.agid.gov.it/agenda-digitale/pubblica-amministrazione/accessibilita/normativa) è disponibile sul sito AgID.

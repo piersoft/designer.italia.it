@@ -4,11 +4,28 @@ title: Colori
 published: true
 ---
 
-### Palette colori 
+### Palette colori
 
-Qualunque scala cromatica può essere scelta per lo sviluppo del sito con la sola esclusione dei colori istituzionali delle pubbliche amministrazioni centrali  (blu #0066CC). La scala cromatica deve comunque garantire il rapporto di contrasto minimo tra testo e sfondo di 4,5:1, come raccomandato dalle specifiche di accessibilità WCAG 2.0 AA. Il colore non deve mai essere significante in sé e non deve essere la modalità con cui si trasmettono contenuti: ipovedenti, daltonici e non vedenti non sarebbero in grado di identificarli correttamente. 
+Qualunque scala cromatica può essere scelta per lo sviluppo del sito con la sola esclusione dei colori istituzionali delle pubbliche amministrazioni centrali  (blu #0066CC). La scala cromatica deve comunque garantire il rapporto di contrasto minimo tra testo e sfondo di 4,5:1, come raccomandato dalle specifiche di accessibilità WCAG 2.0 AA.
+
+Il colore non deve mai essere significante in sé e non deve essere la modalità con cui si trasmettono contenuti:
+ipovedenti, daltonici e non vedenti non sarebbero in grado di identificarli correttamente.
+
+Le Pubbliche Amministrazioni locali e i siti tematici possono utilizzare un qualsiasi colore base,
+seguendo le [indicazioni su come costruire una palette adeguata](/linee-guida/colori#definire-una-palette-principale).
+
+### Colori per il footer
+
+Indipendentemente dalla tipologia di sito valgono le seguenti indicazioni:
+
+<div class="palette-example"><p class="ita-colore-footer-background">colore di sfondo</p></div>
+<div class="palette-example"><p class="ita-colore-ottanio-chiaro">colore dei link</p></div>
+<div class="palette-example"><p class="ita-colore-footer-testo-scuro">testo scuro</p></div>
+
+Il testo normale e i titoli delle sezioni appaiono in bianco.
 
 ### Palette principale per i siti delle Pubbliche Amministrazioni centrali
+
 <div class="lg-callout lg-callout-must">
 <mark>SI DEVE</mark> Il colore istituzionale è il blu #0066CC.
 </div>
@@ -23,7 +40,9 @@ Qualunque scala cromatica può essere scelta per lo sviluppo del sito con la sol
 <!-- ![html](/images/blu.png) -->
 
 ### Palette estesa delle Pubbliche Amministrazioni centrali
-All’interno dei siti delle Pubbliche Amministrazioni centrali sono utilizzate le seguenti undici gradazioni del colore principale Blu sulla modalità di creazione delle gradazioni).
+
+All’interno dei siti istituzionali delle Pubbliche Amministrazioni centrali
+sono utilizzate le seguenti undici gradazioni del colore principale Blu.
 
 <ul class="palette-example">
   <li class="ita-colore-blu-italia-05">
@@ -50,7 +69,7 @@ All’interno dei siti delle Pubbliche Amministrazioni centrali sono utilizzate 
                         95 - Blu</li>
 </ul>
 
-Sono utilizzate le seguenti tre tonalità di grigio per il testo e i fondini.
+Sono inoltre utilizzate le seguenti tre tonalità di grigio per il testo e i fondini.
 
 <ul class="palette-example">
   <li class="ita-colore-grigio-scuro">
@@ -70,12 +89,11 @@ I bottoni sono realizzati utilizzando tre gradazioni di ottanio.
   <li class="ita-colore-ottanio-scuro">
                         Ottanio scuro Bottone Focus
   <li class="ita-colore-ottanio-medio">
-                        Ottanio medio Bottone 
+                        Ottanio medio Bottone
   <li class="ita-colore-ottanio-chiaro">
                         Ottanio chiaro Bottone Hover
   </li>
 </ul>
-
 
 ### Definire una palette principale
 
@@ -108,11 +126,11 @@ Pur funzionando per la maggior parte delle tonalità intermedie, le percentuali 
 
 ![](/images/palette-viola.jpg)
 
-Sarà utile a questo punto testare il contrasto del colore base e delle relative gradazioni 
+Sarà utile a questo punto testare il contrasto del colore base e delle relative gradazioni
 quando applicate al testo per verificarne l’accessibilità eventualmente tramite uno
 [strumento online per la verifica del contrasto colori](http://snook.ca/technical/colour_contrast/colour.html).
 
-Nell’esempio sopra riportato le gradazioni con il testo in nero possono essere utilizzate come sfondo, 
+Nell’esempio sopra riportato le gradazioni con il testo in nero possono essere utilizzate come sfondo,
 quelle con il testo in bianco possono invece essere usate come colore del testo, rispettando i parametri di accessibilità.
 
 ### Esempi di contrasto
