@@ -11,20 +11,20 @@ Qualunque scala cromatica può essere scelta per lo sviluppo del sito con la sol
 Il colore non deve mai essere significante in sé e non deve essere la modalità con cui si trasmettono contenuti:
 ipovedenti, daltonici e non vedenti non sarebbero in grado di identificarli correttamente.
 
-Le Pubbliche Amministrazioni locali e i siti tematici possono utilizzare un qualsiasi colore base,
+Le pubbliche amministrazioni locali e i siti tematici possono utilizzare un qualsiasi colore base,
 seguendo le [indicazioni su come costruire una palette adeguata](/linee-guida/colori#definire-una-palette-principale).
 
 ### Colori per il footer
 
-Indipendentemente dalla tipologia di sito valgono le seguenti indicazioni:
+Indipendentemente dalla tipologia di sito valgono le seguenti indicazioni per i colori del footer:
 
 <div class="palette-example"><p class="ita-colore-footer-background">colore di sfondo</p></div>
 <div class="palette-example"><p class="ita-colore-ottanio-chiaro">colore dei link</p></div>
 <div class="palette-example"><p class="ita-colore-footer-testo-scuro">testo scuro</p></div>
 
-Il testo normale e i titoli delle sezioni appaiono in bianco.
+Il testo normale e i titoli delle sezioni appaiono in bianco (#ffffff).
 
-### Palette principale per i siti delle Pubbliche Amministrazioni centrali
+### Palette principale per i siti delle pubbliche amministrazioni centrali
 
 <div class="lg-callout lg-callout-must">
 <mark>SI DEVE</mark> Il colore istituzionale è il blu #0066CC.
@@ -39,9 +39,9 @@ Il testo normale e i titoli delle sezioni appaiono in bianco.
 
 <!-- ![html](/images/blu.png) -->
 
-### Palette estesa delle Pubbliche Amministrazioni centrali
+### Palette estesa delle pubbliche amministrazioni centrali
 
-All’interno dei siti istituzionali delle Pubbliche Amministrazioni centrali
+All’interno dei siti istituzionali delle pubbliche amministrazioni centrali
 sono utilizzate le seguenti undici gradazioni del colore principale Blu.
 
 <ul class="palette-example">

@@ -3,7 +3,7 @@ template: post.html
 title: Credits
 ---
 
-Le Linee Guida di design per i siti web della PA
+Le linee guida di design per i siti web della PA
 sono ideate, coordinate e sviluppate da:
 
 - [Governo italiano](http://www.governo.it)

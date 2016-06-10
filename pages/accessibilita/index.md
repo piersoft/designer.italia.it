@@ -30,7 +30,7 @@ Il contenuto deve essere abbastanza robusto da poter essere interpretato in modo
 
 #### Requisiti tecnici di accessibilità
 
-I requisiti sono stati definiti sulla base dei Principi, delle Linee guida e dei Criteri di successo contenuti nella Recommendation che il World Wide Web Consortium (W3C) – Web Accessibility Initiative (WAI) ha pubblicato l’11 dicembre 2008 e che contiene le Web Content Accessibility Guidelines 2.0 (WCAG 2.0)
+I requisiti sono stati definiti sulla base dei Principi, delle linee guida e dei Criteri di successo contenuti nella Recommendation che il World Wide Web Consortium (W3C) – Web Accessibility Initiative (WAI) ha pubblicato l’11 dicembre 2008 e che contiene le Web Content Accessibility Guidelines 2.0 (WCAG 2.0)
 I requisiti tecnici qui elencati sono collegati ai relativi punti di controllo per le verifiche di conformità (sito AgID).
 
 [Requisito 1](http://www.agid.gov.it/dm-8-luglio-2005-allegato-A#requisito1) - **Alternative testuali**: fornire alternative testuali per qualsiasi contenuto di natura non testuale. Il testo alternativo deve essere fruito e trasformato secondo le necessità degli utenti; ad esempio convertito in stampa a caratteri ingranditi o in stampa Braille, letto mediante sintesi vocale, simboli o altra modalità.
