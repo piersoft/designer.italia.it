@@ -11,7 +11,7 @@ var config = {
   },
   "site": {
     "downloads": {
-      "ita-bootstrap": "https://github.com/italia-it/ita-bootstrap/releases"
+      "ita-bootstrap": "https://github.com/italia-it/ita-bootstrap/archive/master.zip"
     },
     "brand": process.env['LG_SITE_BRAND'] || "design.italia.it",
     "name": "Linee guida di design per i siti web della PA",
