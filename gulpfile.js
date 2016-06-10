@@ -166,23 +166,8 @@ gulp.task('default', ['serve']);
 //    }));
 //});
 
-/*
- * @FIXME: linkare allo zip del repository una volta creata
- */
-gulp.task('archive', function () {
-  return gulp.src(['web/assets/agid-bootstrap/**',
-    '!**/build{,/**}',
-    '!**/bower_components{,/**}',
-    '!**/node_modules{,/**}'],
-    {base: './web/assets'}
-  )
-    .pipe($.zip('agid-bootstrap.zip'))
-    .pipe(gulp.dest('dist/assets'));
-});
-
 gulp.task('deploy', ['clean', 'build:prod', 'archive'], function () {
   return gulp.src(['./dist/**/*', '!./dist/bower_components{,/**}', '!./dist/template{,/**}'])
     .pipe($.file('CNAME', config.deploy.cname))
     .pipe($.ghPages({ remoteUrl: config.deploy.repository }));
 });
-
