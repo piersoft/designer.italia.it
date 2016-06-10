@@ -141,7 +141,7 @@ gulp.task('build:dev', ['scripts', 'fonts', 'styles',
 gulp.task('build:prod', ['scripts', 'fonts', 'styles',
   'templates:prod', 'webroot', 'images']);
 
-gulp.task('serve', ['clean', 'build:dev', 'archive'], function () {
+gulp.task('serve', ['clean', 'build:dev'], function () {
   browserSync(Object.assign({}, {
     notify: false,
     logPrefix: 'BrowserSync',
@@ -166,7 +166,7 @@ gulp.task('default', ['serve']);
 //    }));
 //});
 
-gulp.task('deploy', ['clean', 'build:prod', 'archive'], function () {
+gulp.task('deploy', ['clean', 'build:prod'], function () {
   return gulp.src(['./dist/**/*', '!./dist/bower_components{,/**}', '!./dist/template{,/**}'])
     .pipe($.file('CNAME', config.deploy.cname))
     .pipe($.ghPages({ remoteUrl: config.deploy.repository }));
