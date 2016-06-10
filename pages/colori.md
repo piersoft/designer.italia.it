@@ -16,7 +16,7 @@ seguendo le [indicazioni su come costruire una palette adeguata](/linee-guida/co
 
 ### Colori per il footer
 
-Indipendentemente dalla tipologia di sito valgono le seguenti indicazioni:
+Indipendentemente dalla tipologia di sito valgono le seguenti indicazioni per i colori del footer:
 
 <div class="palette-example"><p class="ita-colore-footer-background">colore di sfondo</p></div>
 <div class="palette-example"><p class="ita-colore-ottanio-chiaro">colore dei link</p></div>
