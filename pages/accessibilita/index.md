@@ -61,11 +61,13 @@ Se in un sito internet di una pubblica amministrazione sono presenti collegament
 
 #### Documenti allegati alle pagine del sito
 
-Qualora all'interno del sito vengano utilizzati - per fornire informazioni o erogare servizi - [documenti digitali in formato diverso dall'HTML](http://www.agid.gov.it/dm-8-luglio-2005-allegato-A#formato) (es. file PDF, documenti Word, ...), anche questi dovranno
-essere prodotti in modo da essere pienamente fruibili tramite tecnologie assistive (screen reader, lettori braille, ...).
+Qualora all'interno del sito vengano utilizzati documenti digitali (es. file PDF, documenti Word, ...) per fornire informazioni o erogare servizi,
+anche questi dovranno essere prodotti in modo da essere pienamente fruibili tramite tecnologie assistive (lettori di schermo, lettori braille, ...)
+e il contenuto dei documenti dovrà essere conforme ai requisiti tecnici di accessibilità (per esempio: **non pubblicare documenti in formato immagine**).
 
-Il contenuto dei documenti deve essere conforme ai requisiti tecnici di accessibilità
-(per esempio: **non pubblicare documenti in formato immagine**).
+Per ulteriori informazioni, si consiglia di far riferimento a quanto indicato nella
+["Verifica del formato e contenuti dei documenti"](http://www.agid.gov.it/dm-8-luglio-2005-allegato-A#formato)
+dell'[allegato A del DM 8 luglio 2005](http://www.agid.gov.it/dm-8-luglio-2005-allegato-A).
 
 ### Normativa
 La [normativa completa e aggiornata sull’accessibilità](http://www.agid.gov.it/agenda-digitale/pubblica-amministrazione/accessibilita/normativa) è disponibile sul sito AgID.
