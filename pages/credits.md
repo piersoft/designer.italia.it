@@ -15,6 +15,8 @@ sono ideate, coordinate e sviluppate da:
 
 ### Al progetto collaborano
 
+- [Architecta](http://www.architecta.it)
+  - Cristina Lavazza, Luca Rosati
 - [Associazione Italiana Design della Comunicazione Visiva](http://www.aiap.it)
   - Mario Fois
 - [BSD design](http://www.bsdesign.eu)
