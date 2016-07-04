@@ -8,6 +8,7 @@ Efficacia, efficienza e soddisfazione dell’utente sono proprietà misurabili e
 La misurazione del livello di usabilità dei siti web dovrebbe essere effettuata a partire dalla fase di prototipazione dell’interfaccia grafica.
 
 Le statistiche d’uso di siti già online forniscono indicazioni utili, seppur parziali, sull’efficacia dei contenuti.
+E' essenziale anche consentire agli utenti di poter inviare facilmente, e in via informale, commenti e opinioni sul sito dell'Amministrazione.
 
 ### Protocollo per la realizzazione di test di usabiltà
 
