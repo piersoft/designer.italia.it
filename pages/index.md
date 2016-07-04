@@ -35,9 +35,10 @@ serie di strumenti per favorire i commenti partecipativi e la gestione ottimale 
 
 ### Amministrazioni destinatarie
 Le indicazioni presenti nell'attuale versione alfa delle linee guida sono indirizzate: 
- - Alle pubbliche amministrazioni centrali e locali, compresi Comuni, Regioni, Province,
+ - Alle pubbliche amministrazioni centrali e locali, compresi Comuni, Regioni, Province
  - Agli enti e società a queste afferenti 
- - Ai siti tematici, società partecipate, consorzi, comunità
+ - Società partecipate, consorzi, comunità
+Sono inoltre applicabili ai siti tematici.
 
 <!-- Si raccomanda in ogni caso di sviluppare il sito seguendo le *[best practice](https://github.com/italia-it/designer.italia.it/search?utf8=%E2%9C%93&q=%22si+deve%22)* internazionali. -->
 
