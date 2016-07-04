@@ -9,13 +9,17 @@ Il progetto **Italia Login** persegue la realizzazione di un ecosistema di infor
 dal piano di Crescita Digitale, la strategia del Governo per l’innovazione del Paese. Italia Login rappresenta
 anche un primo passo verso la definizione di un’identità coerente per la Pubblica Amministrazione centrale.
 
-Si ritiene che la definizione di un’identità dei servizi della Pubblica Amministrazione debba passare attraverso un
-processo partecipativo, affine ai principi open source cui è ispirata Italia Login, partendo dalla definizione di una
-serie di linee guida comuni piuttosto che dalla tradizionale immagine coordinata monolitica. Tutto ciò può
-coerentemente essere perseguito attraverso la costituzione di una **comunità di designer e sviluppatori**
-in grado di dare un contributo attivo e continuato su design, user experience, usabilità.
+### Novità
+
+Dal 4 luglio 2016 sono on line le indicazioni progettuali per:
+
+ - le [Pubbliche Amministrazioni locali](/linee-guida/header/), valide anche per i siti tematici e le Agenzie governative
+ - la [gestione dei contenuti](/linee-guida/contenuti/)
+ - le indicazioni sull'[architettura delle informazioni](/linee-guida/infoarchitettura/) 
 
 ### Obiettivi
+La definizione di un’identità dei servizi della Pubblica Amministrazione dovrebbe passare attraverso un
+processo partecipativo partendo dalla definizione di una serie di linee guida comuni piuttosto che dalla tradizionale immagine coordinata monolitica. Tutto ciò può coerentemente essere perseguito attraverso la costituzione di una **comunità di designer e sviluppatori** in grado di dare un contributo attivo e continuato su design, user experience, usabilità.
 
 L’obiettivo è di facilitare la costituzione della comunità
 [design.italia.it](http://design.italia.it) promuovendola presso gli aderenti alle associazioni
