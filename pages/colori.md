@@ -14,16 +14,6 @@ ipovedenti, daltonici e non vedenti non sarebbero in grado di identificarli corr
 Le pubbliche amministrazioni locali e i siti tematici possono utilizzare un qualsiasi colore base,
 seguendo le [indicazioni su come costruire una palette adeguata](/linee-guida/colori#definire-una-palette-principale).
 
-### Colori per il footer
-
-Indipendentemente dalla tipologia di sito valgono le seguenti indicazioni per i colori del footer:
-
-<div class="palette-example"><p class="ita-colore-footer-background">colore di sfondo</p></div>
-<div class="palette-example"><p class="ita-colore-ottanio-chiaro">colore dei link</p></div>
-<div class="palette-example"><p class="ita-colore-footer-testo-scuro">testo scuro</p></div>
-
-Il testo normale e i titoli delle sezioni appaiono in bianco (#ffffff).
-
 ### Palette principale per i siti delle pubbliche amministrazioni centrali
 
 <div class="lg-callout lg-callout-must">
