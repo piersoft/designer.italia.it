@@ -34,9 +34,12 @@ serie di strumenti per favorire i commenti partecipativi e la gestione ottimale 
 #### [Repository GitHub delle linee guida](https://github.com/italia-it/designer.italia.it)
 
 ### Amministrazioni destinatarie
-Le indicazioni presenti nell'attuale versione alfa delle linee guida sono indirizzate alle pubbliche amministrazioni centrali e locali, e in particolare ai [siti dei Ministeri](http://indicepa.gov.it/ricerca/n-risultati-percategoria.php?keysearch=&categoria=C1&chicambia=CERCA_PERCAT#R2), dei Comuni e delle Regioni.
-Sono in fase di ultimazione le indicazioni specifiche per i siti tematici e le Agenzie governative.
-Si raccomanda in ogni caso di sviluppare il sito seguendo le *[best practice](https://github.com/italia-it/designer.italia.it/search?utf8=%E2%9C%93&q=%22si+deve%22)* internazionali.
+Le indicazioni presenti nell'attuale versione alfa delle linee guida sono indirizzate: 
+ - Alle pubbliche amministrazioni centrali e locali, compresi Comuni, Regioni, Province,
+ - Agli enti e società a queste afferenti 
+ - Ai siti tematici, società partecipate, consorzi, comunità
+
+<!-- Si raccomanda in ogni caso di sviluppare il sito seguendo le *[best practice](https://github.com/italia-it/designer.italia.it/search?utf8=%E2%9C%93&q=%22si+deve%22)* internazionali. -->
 
 ### Associazioni coinvolte
 Il Governo si avvale della collaborazione delle più significative esperienze di design e usabilità presenti
