@@ -13,6 +13,24 @@ Il Comitato Tecnico di Ergonomia dell’International Standard Organization (www
 
 L’usabilità non è una caratteristica del sistema, ma una proprietà risultante dall’interazione tra sistema e persona. È fondamentale quindi che progettazione, valutazione e funzionamento di un sistema siano guidate dall’analisi e dalla conoscenza articolata dei bisogni, delle caratteristiche degli utilizzatori e dei contesti d’uso. 
 
+### User-centered design
+
+Lo user centered design è un insieme di tecniche usate per far emergere i bisogni effettivi delle persone per cui si sta progettando un contenuto, coinvolgendo le persone stesse nel processo di progettazione. Per "persone" si intendono tutti i portatori di interesse (stakeholder) del progetto.
+Nel caso della Pubblica Amministrazione:
+
+- Cittadini
+- Aziende
+- Dipendenti di altre amministrazioni o istituzioni
+- Committenti
+
+Le tecniche di ricerca più utilizzate nello user centered design consistono in:
+
+- Realizzazione di interviste con gli utenti del sito interessati
+- Profilazione di utenti tipo, o personas
+- Definizione di scenari di utilizzo del sitoi
+- Card sorting delle sezioni del sito
+- Test di usabilità strutturati, condotti con persone fisiche in ambiente controllato
+
 ### Usabilità come costrutto misurabile
 
 Pur essendo presenti  dimensioni soggettive e qualitative, vi sono proprietà che possono essere misurate e valutate con sistematicità e coerenza, durante la progettazione, la valutazione e la manutenzione del sistema. 
