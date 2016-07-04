@@ -71,7 +71,7 @@ L'icona burger deve sempre essere accompagnata nella versione desktop dall'etich
 
 <div class="lg-callout lg-callout-should">
 <mark>SI DOVREBBE</mark>
-Lo stemma dovrebbe, preferibilmente, essere utilizzato nella versione al tratto.
+Lo stemma dovrebbe, preferibilmente, essere utilizzato nella versione al tratto, se presentato su sfondo diverso dal bianco.
 </div>
 
 ![](/images/header/image06.png)
