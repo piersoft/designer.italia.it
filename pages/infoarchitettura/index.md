@@ -13,24 +13,6 @@ Un sito in cui l’informazione è ben organizzata determina una diminuzione di:
 - Tempo e costi di gestione del sito
 - Attività di re-design del sito
 
-### User-centered design
-
-Lo user centered design è un insieme di tecniche usate per far emergere i bisogni effettivi delle persone per cui si sta progettando un contenuto, coinvolgendo le persone stesse nel processo di progettazione. Per "persone" si intendono tutti i portatori di interesse (stakeholder) del progetto.
-Nel caso della Pubblica Amministrazione:
-
-- Cittadini
-- Aziende
-- Dipendenti di altre amministrazioni o istituzioni
-- Committenti
-
-Le tecniche di ricerca più utilizzate nello user centered design consistono in:
-
-- Realizzazione di interviste con gli utenti del sito interessati
-- Profilazione di utenti tipo, o personas
-- Definizione di scenari di utilizzo del sitoi
-- Card sorting delle sezioni del sito
-- Test di usabilità strutturati, condotti con persone fisiche in ambiente controllato
-
 ### Il menu di navigazione principale
 
 In un approccio progettuale e organizzativo centrato sulla persona, è fondamentale ripensare al menu principale di navigazione come ad uno strumento di servizio.
