@@ -110,16 +110,23 @@ Il sommario delle notizie in home page dovrebbe essere un periodo di senso compi
 
 È auspicabile che nei link siano presenti parole salienti rispetto al contenuto al quale rimandano.
 I link devono essere inseriti solo nel corpo del testo, e non devono esseere presenti nel sommario.
+È buona norma verificare periodicamente i link esterni, per evitare che rimandino a pagine inesistenti.
 
-E’ buona norma verificare periodicamente i link esterni, per evitare che rimandino a pagine inesistenti.
-[[[[[Assicurarsi che i link esterni siano accessibili]]]]]]]]
-Anziché duplicare informazioni all’interno di sezioni diverse del sito, è preferibile attivare dei link di approfondimento per collegare fra loro contenuti che trattano tematiche complementari.
-[[[[[Quando il link rimanda ad una pagina esterna, bisogna informare l’utente che sta per essere diretto alla pagina di un altro sito attraverso un apposito simbolo]]]]]
-5. Gestione delle immagini
+Anziché duplicare informazioni all'interno di sezioni diverse del sito, è preferibile attivare dei
+link di approfondimento per collegare fra loro contenuti che trattano tematiche complementari.
+
+<!-- TODO: Quando il link rimanda ad una pagina esterna, bisogna informare l’utente che sta per essere diretto alla pagina di un altro sito ... -->
+
+### Gestione delle immagini
+
 È auspicabile associare immagini al testo solo qualora queste aggiungano informazioni al contenuto e non abbiano un fine puramente decorativo.
-Utilizzare immagini di risoluzione adeguata al web
-Evitare immagini sfocate e di bassa qualità
-Controllare bene il risultato prima di procedere alla pubblicazione
-Assicurarsi che il nome del file immagine sia descrittivo del contenuto (ad es. “sindaco-mario-rossi.JPG”)
-E’ necessario utilizzare il testo alternativo per comunicare il messaggio veicolato dall’immagine: in questo modo il contenuto sarà fruibile anche da parte di coloro che per varie ragioni non siano in grado di visualizzare l’immagine
-Le didascalie sono opzionali: inserire una didascalia per descrivere ciò che l’immagine rappresenta, non per sintetizzare il contenuto della pagina.
+Le immagini puramente decorative appesantiscono il download della pagina e la scansione delle informazioni da parte dell'utente.
+
+- Utilizzare immagini di risoluzione adeguata al web (evitare immagini sfocate e di bassa qualità)
+- Controllare bene il risultato prima di procedere alla pubblicazione
+- Auspicabilmente, assicurarsi che il nome del file immagine sia descrittivo del contenuto (ad es. “sindaco-mario-rossi.jpg)
+
+<!-- TODO: È necessario utilizzare il testo alternativo ```alt``` per comunicare il messaggio veicolato dall'immagine: in questo modo il contenuto sarà fruibile anche da parte di coloro che per varie ragioni non siano in grado di visualizzare l’immagine.
+
+Le didascalie sono opzionali: inserire una didascalia per descrivere ciò che l'immagine rappresenta,
+non per sintetizzare il contenuto della pagina. -->
