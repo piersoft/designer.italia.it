@@ -35,7 +35,7 @@ Le voci di primo livello del menu principale di una Amministrazione comunale dov
 <ul>
 <li>Aree tematiche</li>
 <li>L'Amministrazione</li>
-<li>Vivere a [Nome del Comune]</li>
+<li>Vivere [Nome del Comune]</li>
 <li>Menu opzionale</li>
 </div>
 
@@ -43,7 +43,7 @@ L'ordine delle voci segue una logica di importanza: prima quelle tematiche orien
 
 - **Aree tematiche**: contiene l’accesso a tutti i contenuti e servizi del sito secondo una classificazione tematica.
 - **L’Amministrazione**: contiene tutte le informazioni amministrative e legali che riguardano il sindaco, la composizione della giunta, ecc.
-- Vivere a **[Nome del comune]**: contiene tutte le informazioni pratico-orientative riguardanti il territorio, come eventi e turismo.
+- Vivere **[Nome del comune]**: contiene tutte le informazioni pratico-orientative riguardanti il territorio, come eventi e turismo.
 - **Voce opzionale a scelta del Comune**: il sito di ogni Comune ha a disposizione una eventuale voce che permetta all’Amministrazione di evidenziare o valorizzare contenuti peculiari alla specifica realtà locale. La voce opzionale deve contenere al massimo tre parole, deve essere realmente necessaria e contenere informazioni diverse rispetto alle voci sopra elencate.
 
 ### Aree tematiche
