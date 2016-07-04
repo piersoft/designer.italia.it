@@ -29,5 +29,6 @@ Nel caso si configuri l'assoluta necessità di utilizzare un carousel:
 - l’utente deve poter controllare lo scorrimento (stop / avvio)
 - i controlli devono poter esser utilizzabili anche tramite tastiera (oltre che con mouse / touch)
 
-Nella maggior parte dei casi risulta più conveniente sostituire il carousel con dif presentazione statica dei contenuti (ad esempio, una galleria di immagini) in modo che siano tutti immediatamente visibili.
-
+Nella maggior parte dei casi risulta più conveniente sostituire il carousel con una presentazione statica dei contenuti
+(ad esempio, una galleria di immagini) in modo che siano tutti visibili immediatamente o tramite scorrimento manuale
+non automatico.
