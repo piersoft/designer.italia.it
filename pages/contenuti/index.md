@@ -14,9 +14,8 @@ Progettare i contenuti affinché rispondano innanzitutto alle necessità degli u
 Nella pianificazione e progettazione di un contenuto web, è necessario verificare preliminarmente se sia possibile:
 
 - Ridurre la quantità complessiva del testo previsto per la pubblicazione online
-- Utilizzare una tipologia di formato del contenuto che si più fruibile in relazioni agli obiettivi informativi
+- Utilizzare una tipologia di formato del contenuto che sia più fruibile in relazioni agli obiettivi informativi
 - Rimuovere parte del contenuto già presente sul sito
-- Pubblicare il contenuto in ulteriori piattaforme, oltre che nel sito dell'amministrazione
 
 ### Creazione dei contenuti
 
