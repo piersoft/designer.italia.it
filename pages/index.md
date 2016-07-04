@@ -34,15 +34,19 @@ serie di strumenti per favorire i commenti partecipativi e la gestione ottimale 
 #### [Repository GitHub delle linee guida](https://github.com/italia-it/designer.italia.it)
 
 ### Amministrazioni destinatarie
-Le indicazioni presenti nell'attuale versione alfa delle linee guida sono indirizzate: 
+
+Le indicazioni presenti nell'attuale versione alfa delle linee guida sono indirizzate:
+
  - Alle pubbliche amministrazioni centrali e locali, compresi Comuni, Regioni, Province
- - Agli enti e società a queste afferenti 
+ - Agli enti e società a queste afferenti
  - Società partecipate, consorzi, comunità
+
 Sono inoltre applicabili ai siti tematici.
 
 <!-- Si raccomanda in ogni caso di sviluppare il sito seguendo le *[best practice](https://github.com/italia-it/designer.italia.it/search?utf8=%E2%9C%93&q=%22si+deve%22)* internazionali. -->
 
 ### Associazioni coinvolte
+
 Il Governo si avvale della collaborazione delle più significative esperienze di design e usabilità presenti
 oggi in Italia, con il coordinamento di AgID. Per questo ha ottenuto la collaborazione di alcuni
 professionisti e delle seguenti associazioni:
