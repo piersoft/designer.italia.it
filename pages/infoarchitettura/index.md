@@ -59,7 +59,7 @@ Le voci di primo livello del menu principale di una Amministrazione comunale dov
 
 L'ordine delle voci segue una logica di importanza: prima quelle tematiche orientate al pubblico principale, poi quelle più istituzionali.
 
-- **Aree tematiche**: contiene l’accesso a tutti i contenuti e servizi del sito secondo una classificazione tematica. Vedi sotto Aree tematiche [link].
+- **Aree tematiche**: contiene l’accesso a tutti i contenuti e servizi del sito secondo una classificazione tematica.
 - **L’Amministrazione**: contiene tutte le informazioni amministrative e legali che riguardano il sindaco, la composizione della giunta, ecc.
 - Vivere a **[Nome del comune]**: contiene tutte le informazioni pratico-orientative riguardanti il territorio, come eventi e turismo.
 - **Voce opzionale a scelta del Comune**: il sito di ogni Comune ha a disposizione una eventuale voce che permetta all’Amministrazione di evidenziare o valorizzare contenuti peculiari alla specifica realtà locale. La voce opzionale deve contenere al massimo tre parole, deve essere realmente necessaria e contenere informazioni diverse rispetto alle voci sopra elencate.
@@ -78,7 +78,7 @@ Per la scelta delle etichette delle categorie e sottocategorie è utile:
 - verificare quali termini gli utenti cercano nel sito e integrarle nel titolo
 - effettuare test con utenti reali
 
-### Possibile struttura interna del menu tematico
+#### Possibile struttura interna del menu tematico
 
  - **Ambiente**
 Avere un animale, Fare la raccolta differenziata, Fare sport, Forme di mobilità alternativa, Vivere la natura    
@@ -115,7 +115,7 @@ Cittadinanza attiva, Fare il volontario, Organizzare un evento, Servizio civile
 
 ### Classificazione per profilo
 
-La classificazione dei contenuti per profilo utente permette all’utente un accesso mirato ai contenuti e servizi sulla base di specifici tipologie di utenti. Le ricerche sul campo e l’esperienza sconsigliano tuttavia di usare la navigazione per profilo come unico criterio di accesso ai contenuti, in quanto non tutti gli utenti potrebbero facilmente riconoscersi in un profilo.
+La classificazione dei contenuti per profilo utente permette all’utente un accesso mirato ai contenuti e servizi sulla base di specifici tipologie di utenti. Le ricerche sul campo e l’esperienza sconsigliano di usare la classificazione per profilo come unico criterio di navigazione per l'accesso ai contenuti, in quanto non tutti gli utenti potrebbero facilmente riconoscersi in un profilo.
 
 <div class="lg-callout lg-callout-could">
 <mark>SI PUÒ</mark>
@@ -125,7 +125,7 @@ Il profilo costituisce quindi un'informazione aggiuntiva allo specifico contenut
 
 L'utente esterno che naviga il sito può selezionare un link relativo ad uno specifico profilo, posto all’interno della pagina, e accedere a una sezione che aggrega e organizza automaticamente tutti i contenuti associati a quel profilo selezionato; ad esempio: le  aree tematiche, notizie ed eventi, scadenze, normative, concorsi, siti dedicati.
 
-### Possibile elenco di profili di utenti
+#### Possibile elenco di profili di utenti
 
 (in ordine alfabetico)
 
