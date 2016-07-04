@@ -80,6 +80,8 @@ Per la scelta delle etichette delle categorie e sottocategorie è utile:
 
 #### Possibile struttura interna del menu tematico
 
+(in ordine alfabetico)
+
  - **Ambiente**
 Avere un animale, Fare la raccolta differenziata, Fare sport, Forme di mobilità alternativa, Vivere la natura    
  - **Casa**
