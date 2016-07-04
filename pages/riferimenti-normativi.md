@@ -29,7 +29,7 @@ formazione e conservazione dei documenti informatici delle pubbliche amministraz
 
 ### Accessibilità
 
-- [Legge n. 4 2004 (legge Stanca)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-%2001-%2009;4!vig=)
+- [Legge n. 4 2004](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-%2001-%2009;4!vig=)
  Disposizioni per favorire l’accesso dei soggetti disabili agli strumenti informatici e successive disposizioni attuative
 
 - [Decreto del Presidente della Repubblica 1 marzo 2005, n. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2005-03-01;75!vig)

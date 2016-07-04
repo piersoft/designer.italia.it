@@ -40,12 +40,21 @@ Ciò consente inoltre di evidenziare maggiormente i contenuti nei risultati dei 
 
 È necessario usare un linguaggio chiaro, finalizzato a indirizzare l'utente verso l'informazione o il servizio di cui ha bisogno.
 
-Si dovrebbe utilizzare:
+<div class="lg-callout lg-callout-should">
+<mark>SI DOVREBBE</mark>
+Si dovrebbe evitare l’utilizzo di un linguaggio gergale e specialistico o l’uso di termini e frasi di difficile comprensione.
+</div>
+
+Utilizzare quindi:
 
 - Preferibilmente la forma attiva dei verbi, e non quella impersonale
 - Un vocabolario semplice e chiaro, privilegiando termini e frasi che gli utenti potrebbero usare nello svolgere una ricerca online
 - Una spiegazione dei termini tecnici presenti, in particolare la prima volta che compaiono nel sito
 - L'esplicitazione per intero degli acronimi e delle abbreviazioni, inserendo l'acronimo tra parentesi tonde dopo il termine indicato per esteso
+
+#### Corretta ortografia
+
+Si raccomanda una particolare attenzione alla corretta ortografia della lingua italiana, soprattutto per quanto riguarda l’uso degli accenti e degli apostrofi. Pertanto si dovranno utilizzare le corrette entità HTML, scrivendo È (È) e non E’. Analogamente si dovranno utilizzare le virgolette alte doppie “ ” (&ldquote; &rdquote;) o le virgolette alte semplici ‘ ’ (&lsquote; &rsquote;) al posto delle virgolette indifferenziate dritte.
 
 ###  Organizzare la sezione notizie
 
@@ -112,10 +121,17 @@ Il sommario delle notizie in home page dovrebbe essere un periodo di senso compi
 I link devono essere inseriti solo nel corpo del testo, e non devono esseere presenti nel sommario.
 È buona norma verificare periodicamente i link esterni, per evitare che rimandino a pagine inesistenti.
 
+<div class="lg-callout lg-callout-must">
+<mark>SI DEVE</mark>
+I link devono essere costituiti da parole-chiave significative. Non usare mai la formula "clicca qui" per attivare un link.
+</div>
+
+Nel definire le voci del menu, della navigazione e dei comandi si deve usare una terminologia univoca, dove la stessa definizione non conduca, in luoghi diversi, ad azioni differenti. Nei bottoni e nei link descrivere in modo coerente e puntuale quali sono le azioni che ci dobbiamo aspettare nell’eseguire un comando o nel riempire un form. Siate specifici: “Cerca” invece di “Invia”, “Paga” invece di “Ok”.Il significato di “Cancella” è diverso da “Annulla”.
+
 Anziché duplicare informazioni all'interno di sezioni diverse del sito, è preferibile attivare dei
 link di approfondimento per collegare fra loro contenuti che trattano tematiche complementari.
 
-<!-- TODO: Quando il link rimanda ad una pagina esterna, bisogna informare l’utente che sta per essere diretto alla pagina di un altro sito ... -->
+Si dovrebbero evitare "pop-up" o aperture di pagina esterne. Nel caso di inserimento di link esterni questi dovrebbero essere accompagnati da un avviso leggibile anche dagli screen reader (ad esempio "Questo link si aprirà in una nuova finestra").
 
 ### Gestione delle immagini
 

@@ -27,3 +27,10 @@ Elenchi di contenuti omogenei (ad esempio: anteprime di notizie o eventi) posson
 L'utilizzo di card favorisce la consultazione dei contenuti sugli schermi più piccoli.
 
 Più in generale, laddove i dati non hanno una struttura prevalentemente tabulare, è consigliato l'utilizzo di card o liste al posto che di tabelle (```table```) che risultano più difficili da rendere fruibili in maniera efficace sui dispositivi mobili.
+
+#### Gerarchia dei contenuti
+
+<div class="lg-callout lg-callout-must">
+<mark>SI DEVE</mark>
+Per una corretta definizione della struttura gerarchica dei contenuti, la suddivisione in parti deve essere espressa attraverso l’uso dei tag semantici disponibili in HTML5, quali ```<article>, <aside>, <figcaption>, <header>, <footer>```, ecc., al posto del generico divisore ```<div>```.
+</div>

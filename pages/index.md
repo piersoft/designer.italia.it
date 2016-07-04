@@ -44,7 +44,8 @@ Il Governo si avvale della collaborazione delle più significative esperienze di
 oggi in Italia, con il coordinamento di AgID. Per questo ha ottenuto la collaborazione di alcuni
 professionisti e delle seguenti associazioni:
 
-- [AIAP, Associazione Italiana Design della Comunicazione Visiva](http://www.aiap.it)
-- [SIE, Società Italiana Ergonomia e Fattori Umani](http://www.societadiergonomia.it)
 - [ACM SIGCHI Italy, Special Interest Group Computer-Human Interaction](http://sigchi-italy.org/it/informazioni-generali)
+- [AIAP, Associazione Italiana Design della Comunicazione Visiva](http://www.aiap.it)
+- [Architecta, Società Italiana di Architettura dell'Informazione](http://www.architecta.it)
+- [SIE, Società Italiana Ergonomia e Fattori Umani](http://www.societadiergonomia.it)
 - [Università Milano Bicocca - Dipartimento di Psicologia](http://www.psicologia.unimib.it/index.php)
