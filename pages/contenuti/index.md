@@ -54,7 +54,7 @@ Utilizzare quindi:
 
 #### Corretta ortografia
 
-Si raccomanda una particolare attenzione alla corretta ortografia della lingua italiana, soprattutto per quanto riguarda l’uso degli accenti e degli apostrofi. Pertanto si dovranno utilizzare le corrette entità HTML, scrivendo È (È) e non E’. Analogamente si dovranno utilizzare le virgolette alte doppie “ ” (&ldquote; &rdquote;) o le virgolette alte semplici ‘ ’ (&lsquote; &rsquote;) al posto delle virgolette indifferenziate dritte.
+Si raccomanda una particolare attenzione alla corretta ortografia della lingua italiana, soprattutto per quanto riguarda l’uso degli accenti e degli apostrofi. Pertanto si dovranno utilizzare le corrette entità HTML, scrivendo È (È) e non E’.
 
 ###  Organizzare la sezione notizie
 
@@ -80,8 +80,7 @@ Per essere ben visibili nei risultati dei motori di ricerca, la lunghezza dei ti
 fra i 50 e i 65 caratteri, spazi compresi.
 </div>
 
-<!-- TODO: #### Creare titoli unici e univoci -->
-
+- Creare titoli unici (all'interno del sito) e non ambigui
 - Progettare il titolo utilizzando le parole più rappresentative del contenuto cui fa riferimento
 - Evitare di scrivere il testo tutto in maiuscolo, poiché rende la lettura più complessa
 
@@ -123,7 +122,7 @@ I link devono essere inseriti solo nel corpo del testo, e non devono esseere pre
 
 <div class="lg-callout lg-callout-must">
 <mark>SI DEVE</mark>
-I link devono essere costituiti da parole-chiave significative. Non usare mai la formula "clicca qui" per attivare un link.
+I link devono essere costituiti da parole-chiave significative. Non usare mai la formula “clicca qui” per attivare un link.
 </div>
 
 Nel definire le voci del menu, della navigazione e dei comandi si deve usare una terminologia univoca, dove la stessa definizione non conduca, in luoghi diversi, ad azioni differenti. Nei bottoni e nei link descrivere in modo coerente e puntuale quali sono le azioni che ci dobbiamo aspettare nell’eseguire un comando o nel riempire un form. Siate specifici: “Cerca” invece di “Invia”, “Paga” invece di “Ok”.Il significato di “Cancella” è diverso da “Annulla”.
@@ -131,7 +130,7 @@ Nel definire le voci del menu, della navigazione e dei comandi si deve usare una
 Anziché duplicare informazioni all'interno di sezioni diverse del sito, è preferibile attivare dei
 link di approfondimento per collegare fra loro contenuti che trattano tematiche complementari.
 
-Si dovrebbero evitare "pop-up" o aperture di pagina esterne. Nel caso di inserimento di link esterni questi dovrebbero essere accompagnati da un avviso leggibile anche dagli screen reader (ad esempio "Questo link si aprirà in una nuova finestra").
+Si dovrebbero evitare "pop-up" o aperture di pagina esterne. Nel caso di inserimento di link esterni questi dovrebbero essere accompagnati da un avviso leggibile anche dagli screen reader (ad esempio “Questo link si aprirà in una nuova finestra”).
 
 ### Gestione delle immagini
 
@@ -140,7 +139,7 @@ Le immagini puramente decorative appesantiscono il download della pagina e la sc
 
 - Utilizzare immagini di risoluzione adeguata al web (evitare immagini sfocate e di bassa qualità)
 - Controllare bene il risultato prima di procedere alla pubblicazione
-- Auspicabilmente, assicurarsi che il nome del file immagine sia descrittivo del contenuto (ad es. “sindaco-mario-rossi.jpg)
+- Auspicabilmente, assicurarsi che il nome del file immagine sia descrittivo del contenuto (ad es. sindaco-mario-rossi.jpg)
 
 <!-- TODO: È necessario utilizzare il testo alternativo ```alt``` per comunicare il messaggio veicolato dall'immagine: in questo modo il contenuto sarà fruibile anche da parte di coloro che per varie ragioni non siano in grado di visualizzare l’immagine.
 
