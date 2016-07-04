@@ -46,7 +46,7 @@ Si dovrebbe evitare l’utilizzo di un linguaggio gergale e specialistico o l’
 
 Utilizzare quindi:
 
-- Preferibilmente la forma attiva dei verbi, e non quella impersonale
+- Preferibilmente la forma attiva dei verbi
 - Un vocabolario semplice e chiaro, privilegiando termini e frasi che gli utenti potrebbero usare nello svolgere una ricerca online
 - Una spiegazione dei termini tecnici presenti, in particolare la prima volta che compaiono nel sito
 - L'esplicitazione per intero degli acronimi e delle abbreviazioni, inserendo l'acronimo tra parentesi tonde dopo il termine indicato per esteso
