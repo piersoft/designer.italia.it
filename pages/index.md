@@ -34,9 +34,8 @@ serie di strumenti per favorire i commenti partecipativi e la gestione ottimale 
 #### [Repository GitHub delle linee guida](https://github.com/italia-it/designer.italia.it)
 
 ### Amministrazioni destinatarie
-Le indicazioni presenti nell'attuale versione alfa delle linee guida sono indirizzate principalmente alle pubbliche amministrazioni centrali, e in particolare ai [siti dei Ministeri](http://indicepa.gov.it/ricerca/n-risultati-percategoria.php?keysearch=&categoria=C1&chicambia=CERCA_PERCAT#R2)
-A giugno 2016 verranno rilasciate indicazioni visuali per i siti web delle pubbliche amministrazioni locali.
-Sono in fase di preparazione indicazioni specifiche per i siti tematici e le Agenzie.
+Le indicazioni presenti nell'attuale versione alfa delle linee guida sono indirizzate alle pubbliche amministrazioni centrali e locali, e in particolare ai [siti dei Ministeri](http://indicepa.gov.it/ricerca/n-risultati-percategoria.php?keysearch=&categoria=C1&chicambia=CERCA_PERCAT#R2), dei Comuni e delle Regioni.
+Sono in fase di ultimazione le indicazioni specifiche per i siti tematici e le Agenzie governative.
 Si raccomanda in ogni caso di sviluppare il sito seguendo le *[best practice](https://github.com/italia-it/designer.italia.it/search?utf8=%E2%9C%93&q=%22si+deve%22)* internazionali.
 
 ### Associazioni coinvolte
