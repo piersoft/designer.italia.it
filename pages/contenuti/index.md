@@ -46,7 +46,7 @@ Si dovrebbe evitare l’utilizzo di un linguaggio gergale e specialistico o l’
 
 Utilizzare quindi:
 
-- Preferibilmente la forma attiva dei verbi, e non quella impersonale
+- Preferibilmente la forma attiva dei verbi
 - Un vocabolario semplice e chiaro, privilegiando termini e frasi che gli utenti potrebbero usare nello svolgere una ricerca online
 - Una spiegazione dei termini tecnici presenti, in particolare la prima volta che compaiono nel sito
 - L'esplicitazione per intero degli acronimi e delle abbreviazioni, inserendo l'acronimo tra parentesi tonde dopo il termine indicato per esteso
@@ -116,7 +116,7 @@ Il sommario delle notizie in home page dovrebbe essere un periodo di senso compi
 ### Creare i link
 
 È auspicabile che nei link siano presenti parole salienti rispetto al contenuto al quale rimandano.
-I link devono essere inseriti solo nel corpo del testo, e non devono esseere presenti nel sommario.
+I link devono essere inseriti solo nel corpo del testo, e non devono essere presenti nel sommario.
 È buona norma verificare periodicamente i link esterni, per evitare che rimandino a pagine inesistenti.
 
 <div class="lg-callout lg-callout-must">
