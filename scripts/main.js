@@ -1,8 +1,8 @@
-/*global jQuery:false */
-
-'use strict';
+/*globals document, window, jQuery */
 
 (function ($, undefined) {
+  'use strict';
+
   $(document).ready(function () {
     $('html').removeClass('no-js');
   });
