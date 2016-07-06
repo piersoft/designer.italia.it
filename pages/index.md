@@ -5,8 +5,7 @@ published: true
 ---
 <dfn class="lg-versione-alpha" title="Versione in sviluppo da non considerarsi definitiva">versione alfa</dfn>
 
-Il progetto **Italia Login** persegue la realizzazione di un ecosistema di informazioni e di servizi, secondo quanto previsto
-dal piano di Crescita Digitale, la strategia del Governo per l’innovazione del Paese. Italia Login rappresenta
+Il progetto **Italia Login** persegue la realizzazione di un ecosistema di informazioni e di servizi, secondo quanto previsto dal [piano di Crescita Digitale](http://www.agid.gov.it/agenda-digitale/agenda-digitale-italiana/crescita-digitale-banda-ultralarga), la strategia del Governo per l’innovazione del Paese. Italia Login rappresenta
 anche un primo passo verso la definizione di un’identità coerente per la Pubblica Amministrazione centrale.
 
 ### Novità
