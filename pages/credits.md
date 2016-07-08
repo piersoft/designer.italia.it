@@ -30,7 +30,7 @@ sono ideate, coordinate e sviluppate da:
   - Marco Buttarini - [@webgrafia](https://github.com/webgrafia)
 - [Società Italiana Ergonomia](http://www.societadiergonomia.it)
   - Rossana Actis-Grosso
-- [Special Interest Group on Computer–Human Interaction](http://sigchi-italy.org/)
+- [Special Interest Group on Computer–Human Interaction](http://sigchitaly.eu/)
   - Rosa Lanzillotti
 - [World Usability Day Torino, SIE (Società Italiana di Ergonomia)](http://www.wudrome.it/)
   - Antonella Frisiello
