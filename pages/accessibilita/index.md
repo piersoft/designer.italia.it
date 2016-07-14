@@ -3,34 +3,29 @@ template: post.html
 title: Accessibilità
 published: true
 ---
-Le pubbliche amministrazioni devono rispettare 12 requisiti tecnici riportati nell’Allegato A di accessibilità dei siti web previsti dal Decreto Ministeriale 8 luglio 2005.
-
-#### Standard livello AA
 
 <div class="lg-callout lg-callout-must">
-<mark>SI DEVE</mark> Il sito web deve raggiungere il livello di conformità AA così come definito nelle [Web Content Accessibility Guidelines - WCAG 2.0](http://www.w3.org/Translations/WCAG20-it/).
-Le 12 linee guida e i criteri di conformità delle WCAG 2.0 discendono dai quattro principi che fanno da pilastri all’accessibilità del Web.
+<mark>SI DEVE</mark>
+Le pubbliche amministrazioni devono rispettare i requisiti tecnici di accessibilità riportati nell'[Allegato A del Decreto Ministeriale 8 luglio 2005](http://www.agid.gov.it/dm-8-luglio-2005-allegato-A)) e successive modifiche.
 </div>
 
-Principio 1: **percepibile**
+I requisiti sono stati definiti sulla base dei Principi, delle linee guida e dei Criteri di successo contenuti nella *Recommendation* che il World Wide Web Consortium (W3C) - Web Accessibility Initiative (WAI) ha pubblicato l’11 dicembre 2008 e che contiene le Web Content Accessibility Guidelines 2.0 (WCAG 2.0)
 
-Le informazioni e i componenti dell'interfaccia utente devono essere presentati in modo che possano essere fruiti attraverso differenti canali sensoriali.
+Quattro principi ispiratori, che fanno da pilastri all’accessibilità del Web, sono comuni alle WCAG 2.0 e all’allegato A:
 
-Principio 2: **utilizzabile**
+1. **percepibile**: le informazioni e i componenti dell'interfaccia utente devono essere presentati in modo che possano essere fruiti attraverso differenti canali sensoriali.
 
-I componenti dell’interfaccia utente e i comandi in essa contenuti devono essere utilizzabili senza ingiustificati disagi o vincoli per l’utente.
+2. **utilizzabile**: i componenti dell’interfaccia utente e i comandi in essa contenuti devono essere utilizzabili senza ingiustificati disagi o vincoli per l’utente.
 
-Principio 3: **comprensibile**
+3. **comprensibile**: gli utenti devono poter comprendere le modalità di funzionamento dell’interfaccia e le azioni in essa contenute necessarie per ottenere servizi e informazioni.
 
-Gli utenti devono poter comprendere le modalità di funzionamento dell’interfaccia e le azioni in essa contenute necessarie per ottenere servizi e informazioni.
-
-Principio 4: **robusto**
-
-Il contenuto deve essere abbastanza robusto da poter essere interpretato in modo affidabile da una vasta gamma di programmi utilizzati dall’utente, comprese le tecnologie assistive.
+4. **robusto**: il contenuto deve essere abbastanza robusto da poter essere interpretato in modo affidabile da una vasta gamma di programmi utilizzati dall’utente, comprese le tecnologie assistive.
 
 #### Requisiti tecnici di accessibilità
 
-I requisiti sono stati definiti sulla base dei Principi, delle linee guida e dei Criteri di successo contenuti nella Recommendation che il World Wide Web Consortium (W3C) – Web Accessibility Initiative (WAI) ha pubblicato l’11 dicembre 2008 e che contiene le Web Content Accessibility Guidelines 2.0 (WCAG 2.0)
+I punti di controllo per la verifica di conformità fanno riferimento ai Criteri di successo delle
+WCAG 2.0. Il rispetto dei seguenti requisiti corrisponde al livello di conformità AA delle WCAG 2.0.
+
 I requisiti tecnici qui elencati sono collegati ai relativi punti di controllo per le verifiche di conformità (sito AgID).
 
 [Requisito 1](http://www.agid.gov.it/dm-8-luglio-2005-allegato-A#requisito1) - **Alternative testuali**: fornire alternative testuali per qualsiasi contenuto di natura non testuale. Il testo alternativo deve essere fruito e trasformato secondo le necessità degli utenti; ad esempio convertito in stampa a caratteri ingranditi o in stampa Braille, letto mediante sintesi vocale, simboli o altra modalità.
