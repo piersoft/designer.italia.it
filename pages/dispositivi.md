@@ -52,15 +52,15 @@ Nel web design si sono adottati spesso gli approcci **graceful degradation** (de
  - il **tipo di media**, ovvero se stiamo andando in stampa o su schermo
 
 Tecniche apposite come l'uso di **media queries** permettono di inserire istruzioni nei CSS affinché
-la presentazione dei contenuti sia calibrata sull'attuale dimensione della viewport (*breakpoint*).
+la presentazione dei contenuti sia calibrata sull'attuale dimensione della [viewport](/linee-guida/glossario) (*breakpoint*).
 
 ### Validazione dei fogli di stile CSS
 
 Per compensare le incompatibilità dei diversi browser è spesso necessario introdurre nei fogli di stile
-(<abbr title="Cascading Style Sheets">CSS</abbr>) codice non conforme
-che non passa quindi i [controlli di validità del W3C](https://jigsaw.w3.org/css-validator/).
+(<abbr title="Cascading Style Sheets">CSS</abbr>) codice non conforme; di conseguenza i risutati del
+[test di validazione del W3C](https://jigsaw.w3.org/css-validator/) riportano degli errori.
 
-La validazione è importante laddove un errore pregiudica una funzionalità;
+La validazione è importante laddove tali errori pregiudicano una funzionalità;
 oggi i browser sono più "resilienti" e spesso non si verifica il caso.
 
 Non è necessario pertanto che un CSS rientri perfettamente negli standard.
