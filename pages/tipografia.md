@@ -86,7 +86,7 @@ Il carattere tipografico istituzionale è la famiglia di font [Titillium Web](ht
 ### Markup semantico
 
 <div class="lg-callout lg-callout-should">
-<mark>SI DOVREBBE</mark> L’uso dei tag semantici consente di venire incontro ai requisiti di accessibilità, permettendo la corretta interpretazione del testo da parte dei device di ausilio alla lettura.
+<mark>SI DEVE</mark> L’uso dei tag semantici consente di venire incontro ai requisiti di accessibilità, permettendo la corretta interpretazione del testo da parte dei device di ausilio alla lettura.
 </div>
 
 ### Composizione tabelle
