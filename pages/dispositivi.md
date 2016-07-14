@@ -7,14 +7,14 @@ published: true
 I contenuti e le funzionalità di un sito o un servizio devono poter essere fruibili
 su tutti i dispositivi più utilizzati dagli utenti.
 
-<!-- <div class="lg-callout lg-callout-must">
-<mark>SI DEVE</mark> -->
-
 <div class="lg-callout lg-callout-should">
 <mark>SI DOVREBBE</mark>
 Analizzare regolarmente l'utilizzo dei dispositivi e delle diverse risoluzioni
 che gli utenti adoperano per accedere al sito.
 </div>
+
+<!-- <div class="lg-callout lg-callout-must">
+<mark>SI DEVE</mark> -->
 
 È necessario assicurare la compatibilità con almeno i seguenti browser:
 
@@ -33,7 +33,7 @@ che gli utenti adoperano per accedere al sito.
 La lista comprende più del 95% delle versioni utilizzate in Italia (e nel mondo)
 secondo i dati raccolti da [StatCounter](http://gs.statcounter.com/#browser-IT-monthly-201506-201606)
 
-Non è necessario che l'aspetto del sito sia identico sui diversi dispositiv;
+Non è necessario che l'aspetto del sito sia identico sui diversi dispositivi;
 va tuttavia garantita un'esperienza utente equivalente.
 
 <!-- Per versioni di Explorer inferiori alla 10 si consiglia un supporto
@@ -51,7 +51,8 @@ Nel web design si sono adottati spesso gli approcci **graceful degradation** (de
  - la **risoluzione** dello schermo, ovvero quanti pixel abbiamo a disposizione
  - il **tipo di media**, ovvero se stiamo andando in stampa o su schermo
 
-Tecniche apposite come l'uso di **media queries** permettono di dare istruzioni ai CSS per comportarsi in modo diverso a seconda della risoluzione (*breakpoint*). Individuato il dispositivo, la risoluzione e il browser utilizzato, il contenuto (il nucleo) viene arricchito o meno da informazioni e funzioni aggiuntive.
+Tecniche apposite come l'uso di **media queries** permettono di inserire istruzioni nei CSS affinché
+la presentazione dei contenuti sia calibrata sull'attuale dimensione della viewport (*breakpoint*).
 
 ### Validazione dei fogli di stile CSS
 
@@ -62,6 +63,6 @@ che non passa quindi i [controlli di validità del W3C](https://jigsaw.w3.org/cs
 La validazione è importante laddove un errore pregiudica una funzionalità;
 oggi i browser sono più "resilienti" e spesso non si verifica il caso.
 
-Non è necessario pertanto che un CSS rispetti perfettamente gli standard.
+Non è necessario pertanto che un CSS rientri perfettamente negli standard.
 
-D'altro canto, un CSS (o HTML) perfettamente validi non assicurano di per sé che [il sito sia accessibile](/linee-guida/accessibilita).
+D'altro canto, un CSS (o HTML) totalmente validi non assicurano di per sé che [il sito sia accessibile](/linee-guida/accessibilita).
