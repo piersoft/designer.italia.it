@@ -43,7 +43,7 @@
 
   $(document).ready(function() {
     $('.row-offcanvas').click(function(e){
-      if ($(this).is('.active')) {
+      if ($(e.target).hasClass('row-offcanvas') && $(this).is('.active')) {
         $(this).removeClass('active');
       }
     });
