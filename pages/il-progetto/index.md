@@ -27,7 +27,7 @@ I principi di usabilità, accessibilità e leggibilità devono caratterizzare l�
 #### Disegno coerente, non uniforme
 Le linee guida intendono predisporre un sistema condiviso di riferimenti visivi, in una costruzione dinamica in continuo aggiornamento.
 
-Indicazioni generali
+#### Indicazioni generali
 Le indicazioni presenti in queste linee guida sono così classificate:
 
 <div class="lg-callout lg-callout-must">
