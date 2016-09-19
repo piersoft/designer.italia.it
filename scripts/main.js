@@ -244,5 +244,9 @@
 
   });
 
+  $('[href^=#]').on('click', function(e) {
+    document.location.hash = $(this).attr('href');
+    e.preventDefault();
+  });
 
 })(jQuery);
