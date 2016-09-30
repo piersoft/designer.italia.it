@@ -23,7 +23,7 @@ sono ideate, coordinate e sviluppate da:
 - [Special Interest Group on Computer–Human Interaction](http://sigchitaly.eu/)
 - [SR Labs](www.srlabs.it)
 
-#### Persone
+---
 
 - Rossana Actis-Grosso
 - Sebastiano Bagnara

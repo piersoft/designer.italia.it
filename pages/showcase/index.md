@@ -4,6 +4,13 @@ title: Showcase
 published: true
 ---
 
+Segue un elenco di siti che hanno aderito, a vario livello,
+alla versione `alfa` delle linee guida AgID.
+
+Alcune amministrazioni hanno deciso di adottare le linee guida
+sin dalla fase progettuale (siti pilota), altre hanno scelto di
+apportare un primo parziale adeguamento, anche se il loro sito era già on line.
+
 ### Pubbliche amministrazioni centrali
 
 #### [Portale del Governo Italiano](http://www.governo.it)
@@ -26,6 +33,8 @@ Febbraio 2016
 
 #### [Ministero delle infrastrutture e dei Trasporti](http://http://www.mit.gov.it)
 
+Marzo 2016
+
 <div class="lg-showcase">
   ![Ministero delle infrastrutture e dei Trasporti - vecchio sito](images/showcase/image5.png)
   ![Ministero delle infrastrutture e dei Trasporti - nuovo sito](images/showcase/image6.png)
@@ -36,6 +45,46 @@ Febbraio 2016
 <div class="lg-showcase">
   ![Ministero del Lavoro e delle Politiche Sociali - vecchio sito](images/showcase/image7.png)
   ![Ministero del Lavoro e delle Politiche Sociali - nuovo sito](images/showcase/image8.png)
+</div>
+
+---
+
+### Pubbliche amministrazioni locali
+
+Nel luglio 2016 sono state rilasciate le indicazioni per lo sviluppo dei siti web degli enti locali.
+
+#### [Portale della Regione Sardegna](http://alpha.regione.sardegna.it)
+
+<div class="lg-showcase">
+  ![Portale della Regione Sardegna - vecchio sito](images/showcase/image22.png)
+  ![Portale della Regione Sardegna - nuovo sito](images/showcase/image23.png)
+</div>
+
+#### [Comune di Biella](http://www.comune.biella.it)
+
+Luglio 2016
+
+<div class="lg-showcase">
+  ![Comune di Biella - vecchio sito](images/showcase/image18.png)
+  ![Comune di Biella - nuovo sito](images/showcase/image19.png)
+</div>
+
+#### [Comune di  Matera](http://www.comune.matera.it)
+
+Luglio 2016
+
+<div class="lg-showcase">
+  ![Comune di  Matera - vecchio sito](images/showcase/image16.png)
+  ![Comune di  Matera - nuovo sito](images/showcase/image17.png)
+</div>
+
+#### [Comune di Venezia](http://www.comune.venezia.it)
+
+Giugno 2016
+
+<div class="lg-showcase">
+  ![Comune di Venezia - vecchio sito](images/showcase/image20.png)
+  ![Comune di Venezia - nuovo sito](images/showcase/image21.png)
 </div>
 
 ---
@@ -73,36 +122,4 @@ Giugno 2016
 
 <div class="lg-showcase">
   ![Piano Strategico Banda Ultralarga](images/showcase/image15.png)
-</div>
-
-### Pubbliche amministrazioni locali
-
-Nel luglio 2016 sono state rilasciate le indicazioni per lo sviluppo dei siti web degli enti locali.
-
-#### [Portale della Regione Sardegna](http://alpha.regione.sardegna.it)
-
-<div class="lg-showcase">
-  ![Portale della Regione Sardegna - vecchio sito](images/showcase/image22.png)
-  ![Portale della Regione Sardegna - nuovo sito](images/showcase/image23.png)
-</div>
-
-#### [Comune di Biella](http://www.comune.biella.it)
-
-<div class="lg-showcase">
-  ![Comune di Biella - vecchio sito](images/showcase/image18.png)
-  ![Comune di Biella - nuovo sito](images/showcase/image19.png)
-</div>
-
-#### [Comune di  Matera](http://www.comune.matera.it)
-
-<div class="lg-showcase">
-  ![Comune di  Matera - vecchio sito](images/showcase/image16.png)
-  ![Comune di  Matera - nuovo sito](images/showcase/image17.png)
-</div>
-
-#### [Comune di Venezia](http://www.comune.venezia.it)
-
-<div class="lg-showcase">
-  ![Comune di Venezia - vecchio sito](images/showcase/image20.png)
-  ![Comune di Venezia - nuovo sito](images/showcase/image21.png)
 </div>
