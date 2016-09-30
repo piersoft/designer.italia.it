@@ -7,11 +7,20 @@ published: true
 Segue un elenco di siti che hanno aderito, a vario livello,
 alla versione `alfa` delle linee guida AgID.
 
+<nav role="navigation">
+  <h3 class="sr-only">Amministrazioni aderenti alle linee guida</h3>
+  <ul>
+    <li><a href="#pac">Pubbliche amministrazioni centrali</a>
+    <li><a href="#pal">Pubbliche amministrazioni locali</a>
+    <li><a href="#siti-tematici">Siti tematici</a>
+  </ul>
+</nav>
+
 Alcune amministrazioni hanno deciso di adottare le linee guida
 sin dalla fase progettuale (siti pilota), altre hanno scelto di
 apportare un primo parziale adeguamento, anche se il loro sito era già on line.
 
-### Pubbliche amministrazioni centrali
+### <a name="pac">Pubbliche amministrazioni centrali</a>
 
 #### [Portale del Governo Italiano](http://www.governo.it)
 
@@ -49,11 +58,13 @@ Marzo 2016
 
 ---
 
-### Pubbliche amministrazioni locali
+### <a name="pal">Pubbliche amministrazioni locali</a>
 
 Nel luglio 2016 sono state rilasciate le indicazioni per lo sviluppo dei siti web degli enti locali.
 
 #### [Portale della Regione Sardegna](http://alpha.regione.sardegna.it)
+
+Luglio 2016
 
 <div class="lg-showcase">
   ![Portale della Regione Sardegna - vecchio sito](images/showcase/image22.png)
@@ -89,7 +100,7 @@ Giugno 2016
 
 ---
 
-### Siti tematici
+### <a name="siti-tematici">Siti tematici</a>
 
 #### [Direzione Generale dei musei](http://musei.beniculturali.it)
 
