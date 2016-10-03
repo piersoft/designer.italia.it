@@ -1,10 +1,10 @@
 /* global jQuery */
 /* jshint browser: true */
 
-(function ($, undefined) {
+(function($, undefined) {
   'use strict';
 
-  $(document).ready(function () {
+  $(document).ready(function() {
     $('html').removeClass('no-js');
   });
 
@@ -26,15 +26,15 @@
       .before($showLink)
       .wrap('<div class="lg-example-code collapse" id="' + id + '"></div>');
 
-    $showLink.on('click', function () {
+    $showLink.on('click', function() {
       $(this).text($(this).text() === showLinkTextOpen ? showLinkTextClose : showLinkTextOpen);
     });
   });
 
   /* Offcanvas menu */
 
-  $(document).ready(function () {
-    $('[data-toggle="offcanvas"]').click(function (e) {
+  $(document).ready(function() {
+    $('[data-toggle="offcanvas"]').click(function(e) {
       e.preventDefault();
       $('.row-offcanvas').toggleClass('active');
       $(this).toggleClass('active');
@@ -42,14 +42,14 @@
   });
 
   $(document).ready(function() {
-    $('.row-offcanvas').click(function(e){
+    $('.row-offcanvas').click(function(e) {
       if ($(e.target).hasClass('row-offcanvas') && $(this).is('.active')) {
         $(this).removeClass('active');
       }
     });
   });
 
-  $(document).keyup(function (e) {
+  $(document).keyup(function(e) {
     // Bind key esc
     if (e.which === 27) {
       $('[data-toggle="offcanvas"]').click().focus();
@@ -59,14 +59,14 @@
 
   /* Skiplink */
 
-  jQuery(document).ready(function ($) {
+  jQuery(document).ready(function($) {
     $('.skiplink a').on({
-      'focus': function () {
+      'focus': function() {
         $('.skiplink')
           .removeClass('sr-only')
           .addClass('skiplink--focused');
       },
-      'blur': function () {
+      'blur': function() {
         $('.skiplink')
           .addClass('sr-only')
           .removeClass('skiplink--focused');
@@ -77,20 +77,20 @@
   /* End Skiplink */
   /* Code highlight */
 
-//  $(document).ready(function () {
-//    // code highlight with prismjs
-//    $('pre').addClass('language-markup');
-//    Prism.highlightAll();
-//  });
+  //  $(document).ready(function () {
+  //    // code highlight with prismjs
+  //    $('pre').addClass('language-markup');
+  //    Prism.highlightAll();
+  //  });
 
   /* Palette examples */
 
-  $(document).ready(function () {
-    var tohex = function (x) {
+  $(document).ready(function() {
+    var tohex = function(x) {
       return ('0' + parseInt(x).toString(16)).slice(-2);
     };
 
-    var rgb2hex = function (rgb) {
+    var rgb2hex = function(rgb) {
       if (/^#/.test(rgb)) {
         return rgb;
       }
@@ -98,7 +98,7 @@
       return '#' + tohex(rgb[1]) + tohex(rgb[2]) + tohex(rgb[3]);
     };
 
-    $('.palette-example > *').each(function () {
+    $('.palette-example > *').each(function() {
       var color = rgb2hex($(this).css('color'));
       $(this)
         .wrapInner('<span class="lg-color-example-text"></span>')
@@ -107,13 +107,13 @@
     });
   });
 
-  $('article > p > img, .lg-showcase > img').on('click', function () {
+  $('article > p > img, .lg-showcase > img').on('click', function() {
     $('<img class="lg-modal modal fade" src="' + $(this).attr('src') + '">').modal('show');
   });
 
   /* Cookie law */
 
-  $(document).ready(function () {
+  $(document).ready(function() {
     $.cookieBar({
       fixed: true,
       bottom: true,
@@ -131,10 +131,10 @@
 
   /* Scripts Functions */
 
-// Avoid `console` errors in browsers that lack a console.
-  (function () {
+  // Avoid `console` errors in browsers that lack a console.
+  (function() {
     var method;
-    var noop = function () {};
+    var noop = function() {};
     var methods = [
       'assert', 'clear', 'count', 'debug', 'dir', 'dirxml', 'error',
       'exception', 'group', 'groupCollapsed', 'groupEnd', 'info', 'log',
@@ -156,22 +156,22 @@
 
   /* Modernizr Image SVG Fallback PNG */
 
-//if(!Modernizr.svg) {
-//    $('img[src*="svg"]').attr('src', function() {
-//        return $(this).attr('src').replace('.svg', '.png');
-//    });
-//}
+  //if(!Modernizr.svg) {
+  //    $('img[src*="svg"]').attr('src', function() {
+  //        return $(this).attr('src').replace('.svg', '.png');
+  //    });
+  //}
 
   if (!document.implementation.hasFeature('http://www.w3.org/TR/SVG11/feature#Image', '1.1')) {
-    $('img[src*="svg"]').attr('src', function () {
+    $('img[src*="svg"]').attr('src', function() {
       return $(this).attr('src').replace('.svg', '.png');
     });
   }
 
   /* Scroll to top button */
 
-  $(function () {
-    $('.scrollto_top').bind('click', function (event) {
+  $(function() {
+    $('.scrollto_top').bind('click', function(event) {
       $('html, body').animate({
         scrollTop: $($.attr(this, 'href')).offset().top - $('.navbar').height() - 200
       }, 500);
@@ -181,7 +181,7 @@
 
   /* Sticky navbar */
 
-  $(window).scroll(function () {
+  $(window).scroll(function() {
     var scroll = $(window).scrollTop();
     if (scroll > 80) {
       $('.scrollto_top').removeClass('sr-only');
@@ -196,54 +196,63 @@
 
   /* Navigation menu */
 
-  $(function(){
+  $(function() {
 
     /* iterate through nested list */
 
-    $('.navmenu ul').each(function(){
+    $('.navmenu ul').each(function() {
       var listItem = $(this).closest('li');
       var itemLink = listItem.find('> a');
-      var trigger = $('<span></span>').attr({tabindex: 0, title: 'Espandi il menu ' + $.trim(itemLink.text())} )
-      .on('click', function(ev){
-        ev.preventDefault();
-        var node = $(this).closest('a');
-
-        /* Clear all open and not nested element  */
-        if(!$(this).closest('li.open').length){
-          $('.navmenu ul').slideUp(300);
-          $('.navmenu li').removeClass('open');
-        }
-
-        if(node.siblings('ul').is(':visible')){
-          node.siblings('ul').slideUp(300);
-          node.parent().removeClass('open');
-        }else{
-          node.siblings('ul').slideDown(300);
-          node.parent().addClass('open');
-        }
-      })
-      .on('keydown', function (e) {
-        if (e.which === 13 || e.which === 32) {
-          $(this).click();
-          return false;
-        }
+      var title = 'Espandi il menu ' + $.trim(itemLink.text());
+      var trigger = $('<span></span>').attr({
+        tabindex: 0,
+        'aria-label': title,
+        'title': title,
       });
+
+      $(listItem).find('[href^=#]')
+        .add(trigger)
+        .on('click', function(ev) {
+          var node = $(this).is('a') ? $(this) : $(this).closest('a');
+
+          /* Clear all open and not nested element  */
+          if (!$(this).closest('li.open').length) {
+            $('.navmenu ul').slideUp(300);
+            $('.navmenu li').removeClass('open');
+          }
+
+          if (node.siblings('ul').is(':visible')) {
+            node.siblings('ul').slideUp(300);
+            node.parent().removeClass('open');
+          } else {
+            node.siblings('ul').slideDown(300);
+            node.parent().addClass('open');
+          }
+          return false;
+        })
+        .on('keydown', function(e) {
+          if (e.which === 13 || e.which === 32) {
+            $(this).click();
+            return false;
+          }
+        });
+
       itemLink.append(trigger);
     });
-
 
     /* Get current element and set their ancestors as active */
 
     $('.navmenu a[href=\'' + window.location.pathname + '\'], ' +
         '.navmenu a[href=\'' + window.location.pathname.slice(0, -1) + '\']')
-        .addClass('current');
+      .addClass('current');
 
-    $('.navmenu .current').parents().filter(function(index){
+    $('.navmenu .current').parents().filter(function(index) {
       return (this.nodeName === 'LI');
     }).addClass('active open');
 
   });
 
+  /* Fix issues with <base> tag */
   $('[href^=#]').on('click', function(e) {
     document.location.hash = $(this).attr('href');
     e.preventDefault();

@@ -11,6 +11,10 @@
     <li><a href="{{ data.config.site.baseurl }}">Home</a></li>
     <li>
       <a href="{{ data.config.site.baseurl }}{{ data.config.site.htmlDir }}/il-progetto">Il progetto</a>
+      <ul>
+        <li><a href="{{ data.config.site.baseurl }}{{ data.config.site.htmlDir }}/il-progetto/indicazioni-generali">Indicazioni generali</a></li>
+        <li><a href="{{ data.config.site.baseurl }}{{ data.config.site.htmlDir }}/showcase">Showcase</a></li>
+      </ul>
     </li>
     <!-- TODO <li><a href="{{ data.config.site.baseurl }}{{ data.config.site.htmlDir }}/riferimenti-normativi">Riferimenti normativi</a></li> -->
     <li><a href="{{ data.config.site.baseurl }}{{ data.config.site.htmlDir }}/usabilita">Usabilità</a>
@@ -34,22 +38,28 @@
     </li>
     <li><a href="{{ data.config.site.baseurl }}{{ data.config.site.htmlDir }}/contenuti">Gestione contenuti</a></li>
     <li><a href="{{ data.config.site.baseurl }}{{ data.config.site.htmlDir }}/infoarchitettura">Architettura dell'informazione</a></li>
-    <li><a href="{{ data.config.site.baseurl }}{{ data.config.site.htmlDir }}/dispositivi">Dispositivi</a>
-    <li><a href="{{ data.config.site.baseurl }}{{ data.config.site.htmlDir }}/header">Header</a></li>
-    <li><a href="{{ data.config.site.baseurl }}{{ data.config.site.htmlDir }}/footer">Footer</a></li>
-    <li><a href="{{ data.config.site.baseurl }}{{ data.config.site.htmlDir }}/layout">Layout</a>
-      <ul>
-        <li><a href="{{ data.config.site.baseurl }}{{ data.config.site.htmlDir }}/layout/mobile-first">Mobile first</a></li>
+
+    <li><a href="#visual-design">Visual design</a>
+      <ul id="visual-design">
+        <li><a href="{{ data.config.site.baseurl }}{{ data.config.site.htmlDir }}/header">Header</a></li>
+        <li><a href="{{ data.config.site.baseurl }}{{ data.config.site.htmlDir }}/footer">Footer</a></li>
+        <li><a href="{{ data.config.site.baseurl }}{{ data.config.site.htmlDir }}/layout">Layout</a>
         <li><a href="{{ data.config.site.baseurl }}{{ data.config.site.htmlDir }}/layout/griglie">Griglie</a></li>
-        <li><a href="{{ data.config.site.baseurl }}{{ data.config.site.htmlDir }}/layout/homepage">Home page</a></li>
-        <li><a href="{{ data.config.site.baseurl }}{{ data.config.site.htmlDir }}/layout/carousel">Carousel</a></li>
+        <li><a href="{{ data.config.site.baseurl }}{{ data.config.site.htmlDir }}/layout/mobile-first">Mobile first</a></li>
+        <li><a href="{{ data.config.site.baseurl }}{{ data.config.site.htmlDir }}/layout/homepage">Impostazione della home page</a></li>
+        <li><a href="{{ data.config.site.baseurl }}{{ data.config.site.htmlDir }}/layout/carousel">Utilizzo di carousel</a></li>
+        <li><a href="{{ data.config.site.baseurl }}{{ data.config.site.htmlDir }}/tipografia">Tipografia</a></li>
+        <li><a href="{{ data.config.site.baseurl }}{{ data.config.site.htmlDir }}/colori">Colori</a>
+          <ul>
+            <li><a href="{{ data.config.site.baseurl }}{{ data.config.site.htmlDir }}/colori/palette-pac">Palette amministrazioni centrali</a></li>
+          </ul>
+        </li>
+        <li><a href="{{ data.config.site.baseurl }}{{ data.config.site.htmlDir }}/bottoni">Bottoni</a></li>
+        <li><a href="{{ data.config.site.baseurl }}{{ data.config.site.htmlDir }}/form">Form</a></li>
+        <li><a href="{{ data.config.site.baseurl }}{{ data.config.site.htmlDir }}/iconografia">Iconografia</a></li>
       </ul>
     </li>
-    <li><a href="{{ data.config.site.baseurl }}{{ data.config.site.htmlDir }}/tipografia">Tipografia</a></li>
-    <li><a href="{{ data.config.site.baseurl }}{{ data.config.site.htmlDir }}/colori">Colori</a></li>
-    <li><a href="{{ data.config.site.baseurl }}{{ data.config.site.htmlDir }}/bottoni">Bottoni</a>
-    <li><a href="{{ data.config.site.baseurl }}{{ data.config.site.htmlDir }}/form">Form</a>
-    <li><a href="{{ data.config.site.baseurl }}{{ data.config.site.htmlDir }}/iconografia">Iconografia</a></li>
+
     <li>
       <a href="{{ data.config.site.baseurl }}{{ data.config.site.htmlDir }}/componenti">Componenti</a>
       <ul>
@@ -65,6 +75,7 @@
         </li>
       </ul>
     </li>
+    <li><a href="{{ data.config.site.baseurl }}{{ data.config.site.htmlDir }}/dispositivi">Dispositivi</a>
     <li><a href="{{ data.config.site.baseurl }}{{ data.config.site.htmlDir }}/glossario">Glossario</a></li>
   </ul>
 

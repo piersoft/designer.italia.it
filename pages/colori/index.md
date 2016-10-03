@@ -11,79 +11,11 @@ Qualunque scala cromatica può essere scelta per lo sviluppo del sito con la sol
 Il colore non deve mai essere significante in sé e non deve essere la modalità con cui si trasmettono contenuti:
 ipovedenti, daltonici e non vedenti non sarebbero in grado di identificarli correttamente.
 
+Le pubbliche amministrazioni centrali (PAC) sono tenute a seguire
+le [indicazioni sulla palette riservata alle PAC](/linee-guida/colori/palette-pac).
+
 Le pubbliche amministrazioni locali e i siti tematici possono utilizzare un qualsiasi colore base,
-seguendo le [indicazioni su come costruire una palette adeguata](/linee-guida/colori#definire-una-palette-principale).
-
-### Palette principale per i siti delle pubbliche amministrazioni centrali
-
-<div class="lg-callout lg-callout-must">
-<mark>SI DEVE</mark> Il colore istituzionale è il blu #0066CC.
-</div>
-
-<div class="lg-example-colore-blu-italia">
-  <div class="ita-bg-colore-blu-italia-50">
-      <p class="h3">italia.it</p>
-      <p class="h4">#0066CC</p>
-  </div>
-</div>
-
-<!-- ![html](/images/blu.png) -->
-
-### Palette estesa delle pubbliche amministrazioni centrali
-
-All’interno dei siti istituzionali delle pubbliche amministrazioni centrali
-sono utilizzate le seguenti undici gradazioni del colore principale Blu.
-
-<ul class="palette-example">
-  <li class="ita-colore-blu-italia-05">
-                        05 - Blu</li>
-  <li class="ita-colore-blu-italia-10">
-                        10 - Blu</li>
-  <li class="ita-colore-blu-italia-20">
-                        20 - Blu</li>
-  <li class="ita-colore-blu-italia-30">
-                        30 - Blu</li>
-  <li class="ita-colore-blu-italia-40">
-                        40 - Blu</li>
-  <li class="ita-colore-blu-italia-50">
-                        50 - Blu</li>
-  <li class="ita-colore-blu-italia-60">
-                        60 - Blu</li>
-  <li class="ita-colore-blu-italia-70">
-                        70 - Blu</li>
-  <li class="ita-colore-blu-italia-80">
-                        80 - Blu</li>
-  <li class="ita-colore-blu-italia-90">
-                        90 - Blu</li>
-  <li class="ita-colore-blu-italia-95">
-                        95 - Blu</li>
-</ul>
-
-Sono inoltre utilizzate le seguenti tre tonalità di grigio per il testo e i fondini.
-
-<ul class="palette-example">
-  <li class="ita-colore-grigio-scuro">
-                        Grigio scuro
-  </li>
-  <li class="ita-colore-grigio-medio">
-                        Grigio medio
-  </li>
-  <li class="ita-colore-grigio-chiaro">
-                        Grigio chiaro
-  </li>
-</ul>
-
-I bottoni sono realizzati utilizzando tre gradazioni di ottanio.
-
-<ul class="palette-example">
-  <li class="ita-colore-ottanio-scuro">
-                        Ottanio scuro Bottone Focus
-  <li class="ita-colore-ottanio-medio">
-                        Ottanio medio Bottone
-  <li class="ita-colore-ottanio-chiaro">
-                        Ottanio chiaro Bottone Hover
-  </li>
-</ul>
+attenendosi alle seguenti indicazioni su come costruire una palette adeguata.
 
 ### Definire una palette principale
 
