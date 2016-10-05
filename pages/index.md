@@ -1,22 +1,25 @@
 ---
 template: post.html
-title: Per un design dei servizi della pubblica amministrazione
+title: Per un design dei servizi della Pubblica Amministrazione
 published: true
 ---
 <dfn class="lg-versione-alpha" title="Versione in sviluppo da non considerarsi definitiva">versione alfa</dfn>
 
-Il progetto **Italia Login** persegue la realizzazione di un ecosistema di informazioni e di servizi, secondo quanto previsto dal [piano di Crescita Digitale](http://www.agid.gov.it/agenda-digitale/agenda-digitale-italiana/crescita-digitale-banda-ultralarga), la strategia del Governo per l’innovazione del Paese. Italia Login rappresenta
-anche un primo passo verso la definizione di un’identità coerente per la Pubblica Amministrazione centrale.
+Il progetto **Italia Login** persegue la realizzazione di un ecosistema di informazioni e di servizi, secondo quanto previsto dal [piano di Crescita Digitale](http://www.agid.gov.it/agenda-digitale/agenda-digitale-italiana/crescita-digitale-banda-ultralarga), la strategia del Governo per l’innovazione del Paese. Italia Login rappresenta anche un primo passo verso la definizione di un’identità coerente per la Pubblica Amministrazione centrale.
 
-### Novità
+### Ultimi aggiornamenti
+Ottobre 2016
 
-Dal 4 luglio 2016 sono on line le indicazioni progettuali per:
+- [Principi e strategie per il design dei servizi](/linee-guida/service-design)
+- proposta di revisione dell'architettura dell'informazione del sito
 
- - le [Pubbliche Amministrazioni locali](/linee-guida/header/), valide anche per i siti tematici e le Agenzie governative
- - la [gestione dei contenuti](/linee-guida/contenuti/)
- - le indicazioni sull'[architettura delle informazioni](/linee-guida/infoarchitettura/)
+Luglio 2016
+
+- indicazioni progettuali per le [Pubbliche Amministrazioni locali](/linee-guida/header/),
+  valide anche per i siti tematici e le Agenzie governative
 
 ### Obiettivi
+
 La definizione di un’identità dei servizi della Pubblica Amministrazione dovrebbe passare attraverso un
 processo partecipativo partendo dalla definizione di una serie di linee guida comuni piuttosto che dalla tradizionale immagine coordinata monolitica. Tutto ciò può coerentemente essere perseguito attraverso la costituzione di una **comunità di designer e sviluppatori** in grado di dare un contributo attivo e continuato su design, user experience, usabilità.
 

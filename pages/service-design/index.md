@@ -46,3 +46,5 @@ Ogni servizio è facile da usare, in ogni passaggio è chiaro cosa è stato fatt
 
 Il servizio è realizzato e diffuso attraverso gli strumenti e i canali effettivamente utilizzati
 dai cittadini utilizzando standard, linee guida e infrastrutture condivise.
+
+Consulta le [strategie per il service design](/linee-guida/service-design)
