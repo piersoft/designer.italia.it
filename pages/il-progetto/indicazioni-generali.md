@@ -4,8 +4,6 @@ title: Indicazioni generali
 published: true
 ---
 
-#### Indicazioni generali
-
 Le indicazioni presenti in queste linee guida sono così classificate:
 
 <div class="lg-callout lg-callout-must">

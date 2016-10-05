@@ -1,6 +1,6 @@
 ---
 template: post.html
-title: Dispositivi
+title: Compatibilità con i dispositivi
 published: true
 ---
 
