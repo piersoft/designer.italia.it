@@ -213,6 +213,13 @@ article table {
   float: left;
 }
 
+:target:before {
+  content: "";
+  display: block;
+  height: 80px;
+  margin: -80px 0 0;
+}
+
 /*
  * Github corners
  * https://github.com/tholman/github-corners

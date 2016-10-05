@@ -14,7 +14,7 @@ Dal 4 luglio 2016 sono on line le indicazioni progettuali per:
 
  - le [Pubbliche Amministrazioni locali](/linee-guida/header/), valide anche per i siti tematici e le Agenzie governative
  - la [gestione dei contenuti](/linee-guida/contenuti/)
- - le indicazioni sull'[architettura delle informazioni](/linee-guida/infoarchitettura/) 
+ - le indicazioni sull'[architettura delle informazioni](/linee-guida/infoarchitettura/)
 
 ### Obiettivi
 La definizione di un’identità dei servizi della Pubblica Amministrazione dovrebbe passare attraverso un
@@ -45,17 +45,3 @@ Le indicazioni presenti nell'attuale versione alfa delle linee guida sono indiri
  - Società partecipate, consorzi, comunità
 
 Sono inoltre applicabili ai siti tematici.
-
-<!-- Si raccomanda in ogni caso di sviluppare il sito seguendo le *[best practice](https://github.com/italia-it/designer.italia.it/search?utf8=%E2%9C%93&q=%22si+deve%22)* internazionali. -->
-
-### Associazioni coinvolte
-
-Il Governo si avvale della collaborazione delle più significative esperienze di design e usabilità presenti
-oggi in Italia, con il coordinamento di AgID. Per questo ha ottenuto la collaborazione di alcuni
-professionisti e delle seguenti associazioni:
-
-- [ACM SIGCHI Italy, Special Interest Group Computer-Human Interaction](http://sigchi-italy.org/it/informazioni-generali)
-- [AIAP, Associazione Italiana Design della Comunicazione Visiva](http://www.aiap.it)
-- [Architecta, Società Italiana di Architettura dell'Informazione](http://www.architecta.it)
-- [SIE, Società Italiana Ergonomia e Fattori Umani](http://www.societadiergonomia.it)
-- [Università Milano Bicocca - Dipartimento di Psicologia](http://www.psicologia.unimib.it/index.php)
