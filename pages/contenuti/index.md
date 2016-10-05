@@ -124,7 +124,7 @@ I link devono essere inseriti solo nel corpo del testo, e non devono essere pres
 I link devono essere costituiti da parole-chiave significative. Non usare mai la formula “clicca qui” per attivare un link.
 </div>
 
-Nel definire le voci del menu, della navigazione e dei comandi si deve usare una terminologia univoca, dove la stessa definizione non conduca, in luoghi diversi, ad azioni differenti. Nei bottoni e nei link descrivere in modo coerente e puntuale quali sono le azioni che ci dobbiamo aspettare nell’eseguire un comando o nel riempire un form. Siate specifici: “Cerca” invece di “Invia”, “Paga” invece di “Ok”.Il significato di “Cancella” è diverso da “Annulla”.
+Nel definire le voci del menu, della navigazione e dei comandi si deve usare una terminologia univoca, dove la stessa definizione non conduca, in luoghi diversi, ad azioni differenti. Nei pulsanti e nei link descrivere in modo coerente e puntuale quali sono le azioni che ci dobbiamo aspettare nell’eseguire un comando o nel riempire un form. Siate specifici: “Cerca” invece di “Invia”, “Paga” invece di “Ok”.Il significato di “Cancella” è diverso da “Annulla”.
 
 Anziché duplicare informazioni all'interno di sezioni diverse del sito, è preferibile attivare dei
 link di approfondimento per collegare fra loro contenuti che trattano tematiche complementari.

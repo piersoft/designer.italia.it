@@ -73,15 +73,15 @@ Sono inoltre utilizzate le seguenti tre tonalità di grigio per il testo e i fon
   </li>
 </ul>
 
-I bottoni sono realizzati utilizzando tre gradazioni di ottanio.
+I pulsanti sono realizzati utilizzando tre gradazioni di ottanio.
 
 <ul class="palette-example">
   <li class="ita-colore-ottanio-scuro">
-                        Ottanio scuro Bottone Focus
+                        Ottanio scuro Pulsante Focus
   <li class="ita-colore-ottanio-medio">
-                        Ottanio medio Bottone
+                        Ottanio medio Pulsante
   <li class="ita-colore-ottanio-chiaro">
-                        Ottanio chiaro Bottone Hover
+                        Ottanio chiaro Pulsante Hover
   </li>
 </ul>
 

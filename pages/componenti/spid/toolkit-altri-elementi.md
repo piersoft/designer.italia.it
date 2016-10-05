@@ -8,6 +8,6 @@ published: true
 
 [Download testi SPID in formato JSON](https://github.com/italia-it/spid-i18n/releases/latest)
 
-### Bottone SPID
+### Pulsante SPID
 
-[Download Bottone SPID](https://github.com/italia-it/spid-button/releases/latest)
+[Download Pulsante SPID](https://github.com/italia-it/spid-button/releases/latest)
