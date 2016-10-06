@@ -168,6 +168,52 @@
     });
   }
 
+  /* Next / prev links */
+
+  $(function() {
+    var sibl = {},
+      cur = null;
+    $('.navmenu li').each(function(i, el) {
+      var $l = $(el).find('> a').eq('0');
+      if (window.location.pathname.replace(/\/$/, '') === $l.attr('href').replace(/\/$/, '')) {
+        cur = i;
+      }
+      sibl[i] = $l;
+    });
+
+    if (cur) {
+      var $links = $('<div class="row nextPrev"></div>').appendTo('article');
+
+      var prev = sibl[cur - 1],
+        next = sibl[cur + 1];
+
+      if (prev && $(prev).attr('href')[0] === '#') {
+        prev = sibl[cur - 2];
+      }
+      if (next && $(next).attr('href')[0] === '#') {
+        next = sibl[cur + 2];
+      }
+
+      if (prev && !$(prev).attr('class')) {
+        $('<div class="col-md-6 nextPrev-prev"></div>')
+          .append(' <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>')
+          .append($(prev).clone())
+          .appendTo($links);
+      } else {
+        $links.append('<div class="col-md-6"></div>');
+      }
+
+      if (next) {
+        $('<div class="col-md-6 nextPrev-next"></div>')
+          .append($(next).clone())
+          .appendTo($links)
+          .append(' <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>');
+      } else {
+        $links.append('<div class="col-md-6"></div>');
+      }
+    }
+  });
+
   /* Scroll to top button */
 
   $(function() {

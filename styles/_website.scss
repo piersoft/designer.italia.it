@@ -265,6 +265,17 @@ article table {
   }
 }
 
+.nextPrev div {
+  padding-top: 2em;
+  color: #06c;
+}
+.nextPrev-next {
+  text-align: right;
+}
+.nextPrev a {
+  font-size: 1.5em;
+}
+
 /*
  *  jQuery cookiebar
  *  ------------------
