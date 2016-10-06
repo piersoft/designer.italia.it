@@ -5,16 +5,17 @@ published: true
 ---
 
 <div class="lg-callout lg-callout-must">
-<mark>SI DEVE</mark> Quando si utilizzano delle icone è necessario assicurare una chiara comprensione del loro significato. Pertanto ogni icona dovrà essere associata a un tooltip che ne chiarisca l’azione. La stessa icona non deve essere utilizzata per indicare azioni diverse all’interno della stesso sito. 
+<mark>SI DEVE</mark> Quando si utilizzano delle icone è necessario assicurare una chiara comprensione del loro significato. Pertanto ogni icona dovrà essere associata a un tooltip che ne chiarisca l’azione. La stessa icona non deve essere utilizzata per indicare azioni diverse all’interno della stesso sito.
 </div>
 
-Al fine di garantire una coerenza visiva si consiglia di utilizzare icone provenienti da un unico set grafico come, ad esempio, quelle disponibili gratuitamente su [Font Awesome](https://fortawesome.github.io/Font-Awesome/). 
+Al fine di garantire una coerenza visiva si consiglia di utilizzare icone provenienti da un unico set grafico come,
+ad esempio, quelle disponibili gratuitamente su [Font Awesome](https://fortawesome.github.io/Font-Awesome/).
 
 <!-- La dimensione minima di un'icona è di 30dp -->
 <!-- ![](/images/tavola_31.png) -->
 
-Il framework CSS Bootstrap incorpora invece le [icone del set glyphicons](http://glyphicons.com/).
-È opportuno utilizzare solo icone e immagini che siano realmente necessari alla comprensione delle informazioni da parte dell'utente. Evitare elementi decorativi non essenziali.
+È opportuno utilizzare solo icone e immagini che siano realmente necessari alla comprensione delle informazioni da parte dell'utente.
+Evitare elementi decorativi non essenziali.
 
 ### Badge
 
