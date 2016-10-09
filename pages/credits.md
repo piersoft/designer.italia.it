@@ -20,7 +20,7 @@ sono ideate, coordinate e sviluppate da:
 - [Manafactory](http://www.manafactory.it)
 - [Regione Autonoma Sardegna](http://www.regione.sardegna.it)
 - [Società Italiana Ergonomia](http://www.societadiergonomia.it)
-- [Special Interest Group on Computer–Human Interaction](http://sigchitaly.eu/)
+- [Special Interest Group on Computer–Human Interaction](http://sigchitaly.eu/it/informazioni-generali/)
 - [SR Labs](www.srlabs.it)
 
 ---
