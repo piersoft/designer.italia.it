@@ -24,7 +24,7 @@ loro di trovare con immediatezza ciò che cercano.
 
 Si dovrebbe quindi, almeno:
 
-- Utilizzare titoli e sottotitoli nelle pagine
+- Utilizzare [titoli e sottotitoli](#titoli) nelle pagine
 - Scrivere frasi brevi
 - Suddividere il contenuto per paragrafi
 
@@ -57,7 +57,8 @@ Si raccomanda una particolare attenzione alla corretta ortografia della lingua i
 
 ###  Organizzare la sezione notizie
 
-Nella disposizione e organizzazione delle notizie in home page, è sconsigliabile l'utilizzo dello slider (o carousel) per la pubblicazione dei contenuti.
+Nella disposizione e organizzazione delle notizie in home page, è sconsigliabile l'[utilizzo dello slider (o carousel)](/linee-guida/layout/carousel/)
+per la pubblicazione dei contenuti.
 
 Spesso infatti lo slider viene ignorato e gli utenti non riescono ad avere accesso immediato alle notizie più importanti.
 Lo slider inoltre potrebbe non essere fruibile per chi naviga un sito mediante tastiera o screen reader.
@@ -65,10 +66,11 @@ Lo slider inoltre potrebbe non essere fruibile per chi naviga un sito mediante t
 In alternativa:
 
 - Dedicare al contenuto principale o più recente una sezione preminente statica, da collocare nella parte superiore della pagina
-- Comporre il contenuto con titolo, sommario ed eventualmente un'immagine inerente
+- Comporre il contenuto con titolo, sommario ed eventualmente un'[immagine inerente](#immagini)
 - Organizzare le altre notizie in riquadri sottostanti, contenenti titolo, data e sommario
 
-### Titoli
+
+### <span id="titoli">Titoli</span>
 
 Poiché molto spesso gli utenti giungono ai contenuti di un sito web tramite un motore ricerca, il titolo di un contenuto deve essere ben strutturato,
 per chiarire all'utente se ha effettivamente trovato l’informazione che cerca.
@@ -131,7 +133,7 @@ link di approfondimento per collegare fra loro contenuti che trattano tematiche 
 
 Si dovrebbero evitare "pop-up" o aperture di pagina esterne. Nel caso di inserimento di link esterni questi dovrebbero essere accompagnati da un avviso leggibile anche dagli screen reader (ad esempio “Questo link si aprirà in una nuova finestra”).
 
-### Gestione delle immagini
+### <span id="immagini">Utilizzo delle immagini</span>
 
 È auspicabile associare immagini al testo solo qualora queste aggiungano informazioni al contenuto e non abbiano un fine puramente decorativo.
 Le immagini puramente decorative appesantiscono il download della pagina e la scansione delle informazioni da parte dell'utente.

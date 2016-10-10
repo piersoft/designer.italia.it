@@ -21,7 +21,8 @@ tutti e solo quelli dove sussiste un’immediata correlazione semantica con il c
 
 <div class="lg-callout lg-callout-could">
 <mark>SI PUÒ</mark>
-Elenchi di contenuti omogenei (ad esempio: anteprime di notizie o eventi) possono essere presentati tramite **card** o liste posizionate in una **griglia responsive**.
+Elenchi di contenuti omogenei (ad esempio: anteprime di notizie o eventi) possono essere presentati tramite **card** o liste posizionate in una
+**[griglia responsive](/linee-guida/layout/griglie)**.
 </div>
 
 L'utilizzo di card favorisce la consultazione dei contenuti sugli schermi più piccoli.
