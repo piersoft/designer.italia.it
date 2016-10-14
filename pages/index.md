@@ -10,12 +10,17 @@ Il progetto **Italia Login** persegue la realizzazione di un ecosistema di infor
 ### Ultimi aggiornamenti
 Ottobre 2016
 
-- [Principi e strategie per il design dei servizi](/linee-guida/service-design)
+- Principi e strategie per il design dei servizi
+
+[Val al sito dedicato ai principi e strategie per il design dei servizi](http://www.agid.gov.it/playbook-servizi/)
+
+![Principi di service design](/images/service-design.svg)
+
 - proposta di revisione dell'architettura dell'informazione del sito
 
 Luglio 2016
 
-- indicazioni progettuali per le [Pubbliche Amministrazioni locali](/linee-guida/header/),
+- indicazioni progettuali per le [Pubbliche Amministrazioni locali](/linee-guida/visual-design/header/),
   valide anche per i siti tematici e le Agenzie governative
 
 ### Obiettivi
