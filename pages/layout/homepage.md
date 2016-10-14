@@ -19,5 +19,5 @@ Tale struttura
 ### Le sezioni della home page
 
 - **devono avere un titolo** che le identifica in modo chiaro (es. servizi, notizie, eventi, ...)
-- possono esser distinte tramite **colori di sfondo differenti** (appartenenti a una [palette coerente](/linee-guida/colori)) eventualmente alternati
+- possono esser distinte tramite **colori di sfondo differenti** (appartenenti a una [palette coerente](/linee-guida/visual-design/colori)) eventualmente alternati
 - qualora vi fossero ulteriori contenuti da mostrare, deve esser presente un **link** collegato alla pagina contenente l’elenco completo
