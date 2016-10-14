@@ -12,7 +12,7 @@ Il colore non deve mai essere significante in sé e non deve essere la modalità
 ipovedenti, daltonici e non vedenti non sarebbero in grado di identificarli correttamente.
 
 Le pubbliche amministrazioni centrali (PAC) sono tenute a seguire
-le [indicazioni sulla palette riservata alle PAC](/linee-guida/visual-design/colori/palette-pac).
+le [indicazioni sulla palette riservata alle PAC](/linee-guida/colori/palette-pac).
 
 Le pubbliche amministrazioni locali e i siti tematici possono utilizzare un qualsiasi colore base,
 attenendosi alle seguenti indicazioni su come costruire una palette adeguata.

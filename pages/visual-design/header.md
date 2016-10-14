@@ -59,7 +59,7 @@ Testo: bold (32px su desktop).
 <mark>SI PUÒ</mark>
 Il colore di fondo dell'area navigazione e intestazione è personalizzabile
 (tenendo presente i [requisiti di accessibilità](/linee-guida/accessibilita)
-nell'utilizzo dei [colori](/linee-guida/visual-design/colori)).
+nell'utilizzo dei [colori](/linee-guida/colori)).
 </div>
 
 <div class="lg-callout lg-callout-must">
