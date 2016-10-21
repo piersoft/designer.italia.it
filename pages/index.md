@@ -14,7 +14,7 @@ Ottobre 2016
 
 [Val al sito dedicato ai principi e strategie per il design dei servizi](http://www.agid.gov.it/playbook-servizi/)
 
-![Principi di service design](/images/service-design.svg)
+<!-- ![Principi di service design](/images/service-design.svg) -->
 
 - proposta di revisione dell'architettura dell'informazione del sito
 
