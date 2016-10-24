@@ -11,9 +11,9 @@ scelte effettuate, adeguando il progetto alle esigenze emerse dal dialogo con gl
 
 #### Principi di riferimento
 
-- [Prima i cittadini, tutti](/linee-guida/il-progetto#prima-i-cittadini)
-- [Dialogare per migliorare](/linee-guida/il-progetto#dialogare-per-migliorare)
-- [A servizio del Paese](/linee-guida/il-progetto#a-servizio-paese)
+- [Prima i cittadini, tutti](/linee-guida/service-design#prima-i-cittadini)
+- [Dialogare per migliorare](/linee-guida/service-design#dialogare-per-migliorare)
+- [A servizio del Paese](/linee-guida/service-design#a-servizio-paese)
 
 ### 2. Parti dai dati per pensare in digitale
 
@@ -22,9 +22,9 @@ on line di un processo erogato in modalità tradizionale.
 
 #### Principi di riferimento
 
-- [Innovativi per tradizione](/linee-guida/il-progetto#innovativi-per-tradizione)
-- [Dialogare per migliorare](/linee-guida/il-progetto#dialogare-per-migliorare)
-- [Utile per design, affidabile per principio](/linee-guida/il-progetto#utile-e-affidabile)
+- [Innovativi per tradizione](/linee-guida/service-design#innovativi-per-tradizione)
+- [Dialogare per migliorare](/linee-guida/service-design#dialogare-per-migliorare)
+- [Utile per design, affidabile per principio](/linee-guida/service-design#utile-e-affidabile)
 
 ### 3. Studia per capire, documenta per non ripetere
 
@@ -34,8 +34,8 @@ nuovo valore.
 
 #### Principi di riferimento
 
-- [Dialogare per migliorare](/linee-guida/il-progetto#dialogare-per-migliorare)
-- [Utile per design, affidabile per principio](/linee-guida/il-progetto#utile-e-affidabile)
+- [Dialogare per migliorare](/linee-guida/service-design#dialogare-per-migliorare)
+- [Utile per design, affidabile per principio](/linee-guida/service-design#utile-e-affidabile)
 
 ### 4. Eroga servizi sicuri, disponibili sempre e ovunque
 
@@ -44,9 +44,9 @@ memorizzati in maniera sicura garantendo il pieno rispetto della privacy del cit
 
 #### Principi di riferimento
 
-- [Prima i cittadini, tutti](/linee-guida/il-progetto#prima-i-cittadini)
-- [Utile per design, affidabile per principio](/linee-guida/il-progetto#utile-e-affidabile)
-- [A servizio del Paese](/linee-guida/il-progetto#a-servizio-paese)
+- [Prima i cittadini, tutti](/linee-guida/service-design#prima-i-cittadini)
+- [Utile per design, affidabile per principio](/linee-guida/service-design#utile-e-affidabile)
+- [A servizio del Paese](/linee-guida/service-design#a-servizio-paese)
 
 ### 5. Comunica efficacemente, spesso, ovunque
 
@@ -55,9 +55,9 @@ i cittadini attraverso i canali di comunicazione più usati e diffusi, dando lor
 
 #### Principi di riferimento
 
-- [Prima i cittadini, tutti](/linee-guida/il-progetto#prima-i-cittadini)
-- [Dialogare per migliorare](/linee-guida/il-progetto#dialogare-per-migliorare)
-- [A servizio del Paese](/linee-guida/il-progetto#a-servizio-paese)
+- [Prima i cittadini, tutti](/linee-guida/service-design#prima-i-cittadini)
+- [Dialogare per migliorare](/linee-guida/service-design#dialogare-per-migliorare)
+- [A servizio del Paese](/linee-guida/service-design#a-servizio-paese)
 
 ### 6. Crea solo processi necessari, elimina i doppioni
 
@@ -66,7 +66,7 @@ e l’interoperabilità di tutti i sistemi infrastrutturali previsti dai documen
 
 #### Principi di riferimento
 
-- [Utile per design, affidabile per principio](/linee-guida/il-progetto#utile-e-affidabile)
+- [Utile per design, affidabile per principio](/linee-guida/service-design#utile-e-affidabile)
 
 ### 7. Progetta servizi coinvolgenti e attraenti
 
@@ -75,9 +75,9 @@ richiedono soluzioni risolvibili in pochi passi.
 
 #### Principi di riferimento
 
-- [Prima i cittadini, tutti](/linee-guida/il-progetto#prima-i-cittadini)
-- [Innovativi per tradizione](/linee-guida/il-progetto#innovativi-per-tradizione)
-- [A servizio del Paese](/linee-guida/il-progetto#a-servizio-paese)
+- [Prima i cittadini, tutti](/linee-guida/service-design#prima-i-cittadini)
+- [Innovativi per tradizione](/linee-guida/service-design#innovativi-per-tradizione)
+- [A servizio del Paese](/linee-guida/service-design#a-servizio-paese)
 
 ### 8. Rendi i dati aperti, condividi processi e strumenti
 
@@ -86,9 +86,9 @@ dalla pubblica amministrazione dovrebbe essere rilasciato in formato aperto con 
 
 #### Principi di riferimento
 
-- [Dialogare per migliorare](/linee-guida/il-progetto#dialogare-per-migliorare)
-- [Utile per design, affidabile per principio](/linee-guida/il-progetto#utile-e-affidabile)
-- [A servizio del Paese](/linee-guida/il-progetto#a-servizio-paese)
+- [Dialogare per migliorare](/linee-guida/service-design#dialogare-per-migliorare)
+- [Utile per design, affidabile per principio](/linee-guida/service-design#utile-e-affidabile)
+- [A servizio del Paese](/linee-guida/service-design#a-servizio-paese)
 
 ### 9. Rinnova costantemente, assumendoti il rischio
 
@@ -97,8 +97,8 @@ volta con i cittadini il progresso del servizio. Questa modalità permette di as
 
 #### Principi di riferimento
 
-- [Innovativi per tradizione](/linee-guida/il-progetto#innovativi-per-tradizione)
-- [Utile per design, affidabile per principio](/linee-guida/il-progetto#utile-e-affidabile)
+- [Innovativi per tradizione](/linee-guida/service-design#innovativi-per-tradizione)
+- [Utile per design, affidabile per principio](/linee-guida/service-design#utile-e-affidabile)
 
 ### 10. Valuta e monitora, pensando al futuro
 
@@ -108,5 +108,5 @@ del cittadino.
 
 #### Principi di riferimento
 
-- [Innovativi per tradizione](/linee-guida/il-progetto#innovativi-per-tradizione)
-- [Utile per design, affidabile per principio](/linee-guida/il-progetto#utile-e-affidabile)
+- [Innovativi per tradizione](/linee-guida/service-design#innovativi-per-tradizione)
+- [Utile per design, affidabile per principio](/linee-guida/service-design#utile-e-affidabile)
