@@ -6,8 +6,8 @@ published: true
 
 <div class="lg-callout lg-callout-must">
 <mark>SI DEVE</mark> Nei form ogni campo deve essere sempre associato, anche attraverso il tag ```<label>```,
-a un'etichetta che ne descriva in maniera chiara il contenuto che deve essere inserito. 
-Per essere sempre leggibile, l’etichetta deve essere posizionata esternamente al campo. Deve essere 
+a un'etichetta che ne descriva in maniera chiara il contenuto che deve essere inserito.
+Per essere sempre leggibile, l’etichetta deve essere posizionata esternamente al campo. Deve essere
 consentito inoltre lo spostamento da un campo all’altro tramite il tasto Tab.
 </div>
 
@@ -72,12 +72,12 @@ consentito inoltre lo spostamento da un campo all’altro tramite il tasto Tab.
 
   <div class="row">
     <div class="form-group has-error col-md-6">
-      <label for="nome">Nome</label>
-      <input class="form-control" id="nome" placeholder="Errore - bordo #ff0000">
+      <label for="nome_">Nome</label>
+      <input class="form-control" id="nome_" placeholder="Errore - bordo #ff0000">
     </div>
     <div class="form-group has-warning col-md-6">
-      <label for="cognome">Cognome</label>
-      <input class="form-control" id="cognome" placeholder="Warning - bordo #e5ce23">
+      <label for="cognome_">Cognome</label>
+      <input class="form-control" id="cognome_" placeholder="Warning - bordo #e5ce23">
     </div>
   </div>
 
