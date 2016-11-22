@@ -19,6 +19,7 @@ sono ideate, coordinate e sviluppate da:
 - [Lcd](http://lcd.it)
 - [Manafactory](http://www.manafactory.it)
 - [Regione Autonoma Sardegna](http://www.regione.sardegna.it)
+- [Regione Emilia-Romagna](http://www.regione.emilia-romagna.it/)
 - [Società Italiana Ergonomia](http://www.societadiergonomia.it)
 - [Special Interest Group on Computer–Human Interaction](http://sigchitaly.eu/it/informazioni-generali/)
 - [SR Labs](www.srlabs.it)
@@ -33,6 +34,7 @@ sono ideate, coordinate e sviluppate da:
 - Paolo Barberis - [@paolobarberis](https://github.com/paolobarberis)
 - Claudio Celeghin - [@celeghin](https://github.com/celeghin)
 - Lorena Delvino
+- Jacopo Deyla - [@jdeyla](https://github.com/jdeyla)
 - Vincenzo Di Maria
 - Mario Fois
 - Antonella Frisiello
