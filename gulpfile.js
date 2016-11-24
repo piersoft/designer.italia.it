@@ -70,11 +70,11 @@ gulp.task('minify', ['scripts', 'styles'], function() {
   });
   return gulp.src('template/**/*.html')
     .pipe(assets)
-    .pipe($.if('*.js', $.uglify({
+    .pipe($.if('\.js$', $.uglify({
       preserveComments: 'some'
     })))
     // @FIXME IE8
-    .pipe($.if('*.css', $.minifyCss({
+    .pipe($.if('\.css$', $.minifyCss({
       compatibility: 'ie8'
     })))
     .pipe($.rev())
@@ -202,4 +202,3 @@ gulp.task('deploy', ['clean', 'build:prod'], function() {
       remoteUrl: config.deploy.repository
     }));
 });
-
