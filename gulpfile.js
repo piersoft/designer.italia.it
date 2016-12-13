@@ -8,15 +8,16 @@ var fs = require('fs'),
   gulpLoadPlugins = require('gulp-load-plugins'),
   runSequence = require('run-sequence'),
   merge = require('merge-stream'),
-  config = require('./config')
-  ;
+  config = require('./config');
 
 var $ = gulpLoadPlugins();
 
-gulp.task('templates:pages', function () {
+gulp.task('templates:pages', function() {
   // uses minified templates if present
   var templateDir = fs.existsSync('dist/' + config.templates.dir) ?
     'dist/' + config.templates.dir : config.templates.dir;
+
+  var pageDir = path.join(__dirname, 'pages');
 
   // var root = {};
   return gulp.src('pages/**/*.md')
@@ -24,9 +25,15 @@ gulp.task('templates:pages', function () {
       property: 'data',
       remove: true
     }))
-    .pipe($.data(function (e) {
+    .pipe($.data(function(e) {
+      var currentPath = path.join(
+          config.site.htmlDir, path.relative(pageDir, e.path))
+        .replace(/.md$/, '')
+        .replace(/\/index$/, '')
+        .replace(/\/$/, '');
       return {
         'config': config,
+        'currentPath': currentPath,
         'site': config.site,
         'templateDir': templateDir
       };
@@ -38,8 +45,8 @@ gulp.task('templates:pages', function () {
     .pipe($.markdown())
     .pipe($.applyTemplate({
       engine: 'nunjucks',
-      context: { /* nunjucks options */},
-      template: function (context, file) {
+      context: { /* nunjucks options */ },
+      template: function(context, file) {
         return path.join(templateDir, context.data.template);
       }
     }))
@@ -47,60 +54,78 @@ gulp.task('templates:pages', function () {
     .pipe(gulp.dest('dist/' + config.site.htmlDir));
 });
 
-gulp.task('templates:dev', ['templates:pages'], function () {
+gulp.task('templates:dev', ['templates:pages'], function() {
   // move index out pages directory
   return gulp.src('dist/' + config.site.htmlDir + '/index.html')
     .pipe(gulp.dest('dist'));
 });
 
-gulp.task('templates:prod', function () {
+gulp.task('templates:prod', function() {
   runSequence('minify', 'templates:dev');
 });
 
-gulp.task('minify', ['scripts', 'styles'], function () {
-  var assets = $.useref.assets({searchPath: ['dist']});
+gulp.task('minify', ['scripts', 'styles'], function() {
+  var assets = $.useref.assets({
+    searchPath: ['dist']
+  });
   return gulp.src('template/**/*.html')
     .pipe(assets)
-    .pipe($.if('*.js', $.uglify({preserveComments: 'some'})))
+    .pipe($.if('\.js$', $.uglify({
+      preserveComments: 'some'
+    })))
     // @FIXME IE8
-    .pipe($.if('*.css', $.minifyCss({compatibility: 'ie8'})))
+    .pipe($.if('\.css$', $.minifyCss({
+      compatibility: 'ie8'
+    })))
     .pipe($.rev())
     .pipe(gulp.dest('dist'))
     .pipe(assets.restore())
     .pipe($.useref())
-    .pipe($.revReplace({prefix: config.site.baseurl}))
+    .pipe($.revReplace({
+      prefix: config.site.baseurl
+    }))
     .pipe(gulp.dest('dist/template'));
 });
 
-gulp.task('images', function () {
+gulp.task('images', function() {
   return gulp.src('images/**/*')
     .pipe($.imagemin({
       progressive: true,
       interlaced: true
     }))
     .pipe(gulp.dest('dist/images'))
-    .pipe($.size({title: 'images'}))
-    ;
+    .pipe($.size({
+      title: 'images'
+    }));
 });
 
-gulp.task('webroot', function () {
+gulp.task('webroot', function() {
   return merge(gulp.src([
-    'bower_components/**/*'], {base: './', dot: true})
+      'bower_components/**/*'
+    ], {
+      base: './',
+      dot: true
+    })
     .pipe(gulp.dest('dist')),
-    gulp.src(['web/**/*'], {dot: true})
+    gulp.src(['web/**/*'], {
+      dot: true
+    })
     .pipe(gulp.dest('dist')));
 });
 
-gulp.task('fonts', function () {
+gulp.task('fonts', function() {
   return gulp.src(['bower_components/bootstrap-sass/assets/fonts/**'])
     .pipe(gulp.dest('dist/fonts'));
 });
 
-gulp.task('styles', function () {
+gulp.task('styles', function() {
   return gulp.src(['styles/main.scss'])
-    .pipe($.sourcemaps.init({loadMaps: true}))
+    .pipe($.sourcemaps.init({
+      loadMaps: true
+    }))
     .pipe($.sass().on('error', $.sass.logError))
-    .pipe($.autoprefixer({browsers: ['last 2 version', '> 1%'],
+    .pipe($.autoprefixer({
+      browsers: ['last 2 version', '> 1%'],
       cascade: true,
       remove: false
     }))
@@ -120,7 +145,7 @@ gulp.task('styles', function () {
     .pipe(gulp.dest('dist/styles'));
 });
 
-gulp.task('scripts', function () {
+gulp.task('scripts', function() {
   return gulp.src(['./scripts/*.js'])
     .pipe($.jshint())
     .pipe($.jshint.reporter('jshint-stylish'))
@@ -131,17 +156,21 @@ gulp.task('scripts', function () {
     .pipe(gulp.dest('dist/scripts'));
 });
 
-gulp.task('clean', function () {
-  return del.sync(['dist/*', '!dist/.git'], {dot: true});
+gulp.task('clean', function() {
+  return del.sync(['dist/*', '!dist/.git'], {
+    dot: true
+  });
 });
 
 gulp.task('build:dev', ['scripts', 'fonts', 'styles',
-  'templates:dev', 'webroot', 'images']);
+  'templates:dev', 'webroot', 'images'
+]);
 
 gulp.task('build:prod', ['scripts', 'fonts', 'styles',
-  'templates:prod', 'webroot', 'images']);
+  'templates:prod', 'webroot', 'images'
+]);
 
-gulp.task('serve', ['clean', 'build:dev'], function () {
+gulp.task('serve', ['clean', 'build:dev'], function() {
   browserSync(Object.assign({}, {
     notify: false,
     logPrefix: 'BrowserSync',
@@ -166,8 +195,10 @@ gulp.task('default', ['serve']);
 //    }));
 //});
 
-gulp.task('deploy', ['clean', 'build:prod'], function () {
+gulp.task('deploy', ['clean', 'build:prod'], function() {
   return gulp.src(['./dist/**/*', '!./dist/bower_components{,/**}', '!./dist/template{,/**}'])
     .pipe($.file('CNAME', config.deploy.cname))
-    .pipe($.ghPages({ remoteUrl: config.deploy.repository }));
+    .pipe($.ghPages({
+      remoteUrl: config.deploy.repository
+    }));
 });

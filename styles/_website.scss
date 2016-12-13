@@ -2,7 +2,7 @@
  *  Bootstrap tweaks
  *  -----------------
  */
-$article-max-text-width: 31em;
+$article-max-text-width: 32em;
 $article-max-block-swidth: 60rem;
 
 #main {
@@ -30,8 +30,8 @@ article img {
 
 article {
   .lg-callout,
-  p, 
-  ul, 
+  p,
+  ul,
   ol,
   h1,
   h2,
@@ -83,7 +83,7 @@ article table {
   }
 }
 
-#footer a:focus { 
+#footer a:focus {
   outline: #ff8c00 solid 3px !important;
   background: none !important;
   color: inherit !important;
@@ -143,6 +143,35 @@ article table {
 }
 
 /*
+ *  Showcase
+ */
+.lg-showcase {
+  overflow: auto;
+  margin-bottom: 2em;
+
+  img {
+    @extend .img-responsive;
+    float: left;
+    padding: 1em;
+    border: 1px solid #ddd;
+    margin-bottom: 1em;
+  }
+
+  img:hover {
+    cursor: pointer;
+    opacity: 0.8;
+  }
+
+  @media (min-width: 768px) {
+    img {
+      width: 45%;
+      margin-right: 2%;
+    }
+  }
+
+}
+
+/*
  *  @FIXME: monkey patching navbar button
  */
 .nav > li > a.btn {
@@ -152,16 +181,43 @@ article table {
   &:focus:focus {
     color: $btn-primary-color !important;
     background-color: $btn-primary-bg !important;
-    border-color: $btn-primary-border !important;    
+    border-color: $btn-primary-border !important;
   }
   &:active:active {
     color: color(colore-ottanio-chiaro) !important;
     background-color: color(colore-ottanio-scuro) !important;
-    border-color: color(colore-ottanio-scuro) !important;    
+    border-color: color(colore-ottanio-scuro) !important;
   }
   i {
     margin-right: 2rem;
   }
+}
+
+/*
+ * Playbook servizi
+ * ----------------------
+ */
+.ico-playbookservizi {
+  width: 80px;
+  height: 80px;
+  float: right;
+  margin: 1em 1em 0 1em;
+}
+
+.icomini-playbookservizi {
+  width: 60px;
+  height: 60px;
+}
+
+.ico-container {
+  float: left;
+}
+
+:target:before {
+  content: "";
+  display: block;
+  height: 80px;
+  margin: -80px 0 0;
 }
 
 /*
@@ -207,6 +263,17 @@ article table {
   .github-corner .octo-arm {
     animation: octocat-wave 560ms ease-in-out;
   }
+}
+
+.nextPrev div {
+  padding-top: 2em;
+  color: #06c;
+}
+.nextPrev-next {
+  text-align: right;
+}
+.nextPrev a {
+  font-size: 1.2em;
 }
 
 /*

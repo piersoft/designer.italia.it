@@ -14,8 +14,8 @@ var config = {
       "ita-bootstrap": "https://github.com/italia-it/ita-bootstrap/archive/master.zip"
     },
     "brand": process.env['LG_SITE_BRAND'] || "design.italia.it",
-    "name": "Linee guida di design per i siti web della PA",
-    "description": "Progettare il design dei siti web della Pubblica Amministrazione (versione alfa)",
+    "name": "Linee guida di design per i servizi web della PA",
+    "description": "Progettare il design dei servizi web della Pubblica Amministrazione (versione alfa)",
     "gaUser": process.env['LG_SITE_GAUSER'] || "UA-3351165-20",
     "htmlDir": "linee-guida",
     "baseurl": process.env['LG_SITE_BASEURL'] || "/",

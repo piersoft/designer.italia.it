@@ -1,6 +1,6 @@
 ---
 template: post.html
-title: Dispositivi
+title: Compatibilità con i dispositivi
 published: true
 ---
 
@@ -65,4 +65,4 @@ oggi i browser sono più "resilienti" e spesso non si verifica il caso.
 
 Non è necessario pertanto che un CSS rientri perfettamente negli standard.
 
-D'altro canto, un CSS (o HTML) totalmente validi non assicurano di per sé che [il sito sia accessibile](/linee-guida/accessibilita).
+La validazione del CSS non è inoltre sufficiente a garantire l'[accessibilità](/linee-guida/accessibilita).

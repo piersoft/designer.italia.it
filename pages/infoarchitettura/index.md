@@ -4,7 +4,7 @@ title: Architettura dell'informazione
 published: true
 ---
 
-L’architettura dell’informazione è l’organizzazione semantica e logica di ambienti informativi, sia fisici sia digitali, e favorisce la trovabilità e la fruibilità di informazioni e servizi. L’architettura dell’informazione deve essere progettata intorno ai bisogni delle persone, da cui deriva il nome "user-centered design".
+L’architettura dell’informazione è l’organizzazione semantica e logica di ambienti informativi, sia fisici sia digitali, e favorisce la trovabilità e la fruibilità di informazioni e servizi. L’architettura dell’informazione deve essere progettata intorno ai bisogni delle persone, da cui deriva il nome "[user-centered design](/linee-guida/usabilita/#user-centered-design)".
 
 Le persone usano un sito web di una Pubblica Amministrazione principalmente per trovare informazioni, soluzioni a problemi, accedere a servizi online.
 Un sito in cui l’informazione è ben organizzata determina una diminuzione di:
