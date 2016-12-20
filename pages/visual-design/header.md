@@ -4,9 +4,10 @@ title: Header
 published: true
 ---
 
-Le indicazioni presenti in questa sezione vanno applicate nella progettazione di siti web
-per le amministrazioni centrali, locali (Regioni, Province, Comuni) e per gli enti e le società
-a queste afferenti (siti tematici, società partecipate, consorzi, comunità, ...).
+Le indicazioni presenti in questa sezione sono rivolte
+a tutte le pubbliche amministrazioni (centrali e locali) e gli enti e le società
+a loro afferenti (ad esempio società partecipate, consorzi, comunità);
+vanno applicate nella progettazione dei siti istituzionali e tematici.
 
 ### Contenuti
 
@@ -14,9 +15,9 @@ a queste afferenti (siti tematici, società partecipate, consorzi, comunità, ..
 <mark>SI DEVE</mark>
 <p>La testata deve contenere le seguenti funzionalità:</p>
 <ul>
-<li>denominazione dell'amministrazione / ente / società (link in formato testo che punta alla home page)</li>
+<li>denominazione dell'amministrazione / ente / società / sito tematico (link **in formato testuale** che punta alla home page)</li>
 <li>barra di accesso al livello gerarchico superiore dell'amministrazione (o all'amministrazione afferente nel caso di un sito tematico)</li>
-<li>stemma / logo dell'amministrazione / ente / società</li>
+<li>stemma / logo dell'amministrazione / ente / società / sito tematico</li>
 <li>accesso al menu di navigazione</li>
 </ul>
 </div>
@@ -24,8 +25,8 @@ a queste afferenti (siti tematici, società partecipate, consorzi, comunità, ..
 <div class="lg-callout lg-callout-could">
 <mark>SI PUÒ</mark>
 <p>La testata può inoltre contenere una o più delle seguenti funzionalità:</p>
-<li>campo di ricerca aperto</li>
-<li>accesso ai servizi</li>
+<li>campo di ricerca</li>
+<li>accesso diretto ai servizi (al form di login)</li>
 <li>link ai social network</li>
 <li>selezione lingue</li>
 </ul>
@@ -39,18 +40,18 @@ La struttura della testata è suddivisa in 3 aree funzionali.
 
 #### 1. Area appartenenza
 
-Contiene l'indicazione dell'amministrazione di appartenenza e, se necessario, l'accesso ai servizi, sulla parte destra.
+Contiene l'indicazione dell'amministrazione di appartenenza e, se necessario, l'accesso ai servizi.
 Il colore della barra superiore è sempre #303030.
 
-Testo: bold-600 (15px su desktop) in colore bianco.
+Testo: bold-600 (16px su desktop) in colore bianco.
 
 #### 2. Area navigazione e intestazione
 
-Contiene l'accesso al menu di navigazione, lo stemma e la denominazione *in formato testuale*
+Contiene l'accesso al menu di navigazione, lo stemma e la denominazione **in formato testuale**
 dell'amministrazione / ente; eventualmente: il campo di ricerca e le selezioni dei social
 network e delle lingue. L'area di navigazione può essere estesa dalla presenza del menu orizzontale.
 
-Testo: bold-700 (32px su desktop).
+Testo del titolo: bold-700 (32px su desktop).
 
 <div class="lg-callout lg-callout-could">
 <mark>SI PUÒ</mark>
@@ -61,7 +62,7 @@ nell'utilizzo dei [colori](/linee-guida/colori)).
 
 <div class="lg-callout lg-callout-must">
 <mark>SI DEVE</mark>
-L'icona burger deve sempre essere accompagnata nella versione desktop dall'etichetta "MENU".
+L'icona burger deve sempre essere accompagnata nella versione desktop (laddove presente) dall'etichetta "MENU".
 </div>
 
 ![icona burger](/images/header/image03.png)
