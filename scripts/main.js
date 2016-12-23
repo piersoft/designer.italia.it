@@ -8,27 +8,11 @@
     $('html').removeClass('no-js');
   });
 
-  /* @FIXME: Pre examples (hack)
-   * ---------------------------
-   *  Converte gli esempi markdown / html e crea un div "collapsible"
-   *  per mostrare / nascondere il codice
-   */
-  $('pre').each(function doExample() {
-    doExample.count = doExample.count ? doExample.count + 1 : 1;
-    var id = 'code-collapse-' + doExample.count,
-      showLinkTextOpen = 'Mostra il codice',
-      showLinkTextClose = 'Nascondi il codice',
-      $showLink = $('<a class="lg-example-toggle btn btn-primary" role="button" data-toggle="collapse" href="#' + id + '" ' +
-        ' aria-expanded="false" aria-controls="' + id + '">' + showLinkTextOpen + '</a>');
-
-    $(this)
-      .before('<div class="lg-example-result">' + $(this).text() + '</div>')
-      .before($showLink)
-      .wrap('<div class="lg-example-code collapse" id="' + id + '"></div>');
-
-    $showLink.on('click', function() {
-      $(this).text($(this).text() === showLinkTextOpen ? showLinkTextClose : showLinkTextOpen);
-    });
+  $('iframe.lg-example').each(function doExample() {
+    $(this).after($(
+      '<div class="lg-example-link"><a class="lg-example-toggle btn btn-link " href="' +
+      $(this).attr('src').replace('/preview/', '/detail/') + '" ' +
+      '>Mostra il codice</a></div>'));
   });
 
   /* Offcanvas menu */

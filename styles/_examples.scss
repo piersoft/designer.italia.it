@@ -6,6 +6,8 @@
   margin: 2rem 0;
 }
 .lg-example-toggle {
+  float: right;
+  clear: both;
   margin-bottom: 2rem;
 }
 .lg-example-code {
@@ -30,7 +32,7 @@
       height: 8rem;
       line-height: 8rem;
       text-align: center;
-      background: color(colore-blu-italia);      
+      background: color(colore-blu-italia);
       color: white;
     }
   }
@@ -43,7 +45,7 @@
     small {
       display: block;
     }
-  }  
+  }
 }
 
 .lg-example-tipografia {

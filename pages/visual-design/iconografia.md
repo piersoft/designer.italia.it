@@ -9,43 +9,14 @@ published: true
 </div>
 
 Al fine di garantire una coerenza visiva si consiglia di utilizzare icone provenienti da un unico set grafico come,
-ad esempio, quelle disponibili gratuitamente su [Font Awesome](https://fortawesome.github.io/Font-Awesome/).
+ad esempio, quelle disponibili gratuitamente su [Font Awesome](https://fortawesome.github.io/Font-Awesome/)
+o il [set di icone incluso nel web toolkit](https://italia-it.github.io/ita-web-toolkit/components/detail/icons.html)
+delle Linee Guida al quale è possibile contribuire proponendo integrazioni o modifiche.
 
-<!-- La dimensione minima di un'icona è di 30dp -->
-<!-- ![](/images/tavola_31.png) -->
-
-È opportuno utilizzare solo icone e immagini che siano realmente necessari alla comprensione delle informazioni da parte dell'utente.
-Evitare elementi decorativi non essenziali.
-
-### Badge
-
-```markup
-<p>Commenti <span class="badge">4</span></p>
-```
-
-```markup
-<ul class="nav nav-pills" role="tablist">
-  <li role="presentation" class="active"><a href="#">Home <span class="badge">42</span></a></li>
-  <li role="presentation"><a href="#">Profilo utente</a></li>
-</ul>
-```
-
-```markup
-<span class="ita-colore-blu-italia-50 badge-container">
-  <span class="glyphicon glyphicon-camera" aria-hidden="true" title="foto"></span>
-  <span class="badge">4</span>
-  <span class="sr-only">foto</span>
-</span>
-<span class="ita-colore-blu-italia-50 badge-container">
-  <span class="glyphicon glyphicon-facetime-video" aria-hidden="true" title="video"></span>
-  <span class="badge">4</span>
-  <span class="sr-only">video</span>
-</span>
-<span class="ita-colore-blu-italia-50 badge-container">
-  <span class="glyphicon glyphicon-picture" aria-hidden="true" title="immagini"></span>
-  <span class="badge">4</span>
-  <span class="sr-only">immagini</span>
-</span>
-```
+<div class="lg-callout lg-callout-should">
+<mark>SI DOVREBBE</mark>
+È opportuno utilizzare solo icone e immagini che siano realmente necessari alla comprensione delle informazioni da parte dell'utente,
+evitare quindi elementi decorativi non essenziali.
+</div>
 
 <!-- ![html](/images/tavola_32.png) -->

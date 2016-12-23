@@ -8,20 +8,21 @@ published: true
 Il progetto **Italia Login** persegue la realizzazione di un ecosistema di informazioni e di servizi, secondo quanto previsto dal [piano di Crescita Digitale](http://www.agid.gov.it/agenda-digitale/agenda-digitale-italiana/crescita-digitale-banda-ultralarga), la strategia del Governo per l’innovazione del Paese. Italia Login rappresenta anche un primo passo verso la definizione di un’identità coerente per la Pubblica Amministrazione centrale.
 
 ### Ultimi aggiornamenti
-Ottobre 2016
+#### Dicembre 2016
 
-- Principi e strategie per il design dei servizi
+Pubblicazione di una prima versione del [web toolkit](https://italia-it.github.io/ita-web-toolkit/):
+fogli di stile, componenti Javascript ed esempi HTML per aderire più facilmente alle Linee Guida.
 
-[Val al sito dedicato ai principi e strategie per il design dei servizi](http://www.agid.gov.it/playbook-servizi/)
+#### Ottobre 2016
 
-<!-- ![Principi di service design](/images/service-design.svg) -->
+[Principi e strategie per il design dei servizi](http://www.agid.gov.it/playbook-servizi/).
 
-- proposta di revisione dell'architettura dell'informazione del sito
+Proposta di revisione dell'architettura dell'informazione del sito.
 
-Luglio 2016
+#### Luglio 2016
 
-- indicazioni progettuali per le [Pubbliche Amministrazioni locali](/linee-guida/visual-design/header/),
-  valide anche per i siti tematici e le Agenzie governative
+Indicazioni progettuali per le [Pubbliche Amministrazioni locali](/linee-guida/visual-design/header/),
+valide anche per i siti tematici e le Agenzie governative.
 
 ### Obiettivi
 
@@ -77,4 +78,3 @@ Tutto quello che è possibile.
 <mark>ESEMPIO</mark>
 Buone pratiche e materiali a disposizione.
 </div>
-

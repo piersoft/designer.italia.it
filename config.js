@@ -11,7 +11,8 @@ var config = {
   },
   "site": {
     "downloads": {
-      "ita-bootstrap": "https://github.com/italia-it/ita-bootstrap/archive/master.zip"
+      "ita-bootstrap": "https://github.com/italia-it/ita-bootstrap/archive/master.zip",
+      "ita-web-toolkit": "https://italia-it.github.io/ita-web-toolkit/"
     },
     "brand": process.env['LG_SITE_BRAND'] || "design.italia.it",
     "name": "Linee guida di design per i servizi web della PA",
