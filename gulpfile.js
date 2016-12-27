@@ -12,6 +12,13 @@ var fs = require('fs'),
 
 var $ = gulpLoadPlugins();
 
+// only when deploying, get last modififation dates
+var lastModifiedDate = (process.env.PRINT_LASTUPDATE || (-1 !== Array.prototype.indexOf.call(process.argv, 'deploy'))) ?
+  require('./git-date').getLastModifiedDates() : null
+
+// console.log(lastModifiedDate)
+// return
+
 gulp.task('templates:pages', function() {
   // uses minified templates if present
   var templateDir = fs.existsSync('dist/' + config.templates.dir) ?
@@ -26,22 +33,26 @@ gulp.task('templates:pages', function() {
       remove: true
     }))
     .pipe($.data(function(e) {
-      var currentPath = path.join(
-          config.site.htmlDir, path.relative(pageDir, e.path))
+      var relPath = path.relative(pageDir, e.path)
         .replace(/.md$/, '')
-        .replace(/\/index$/, '')
         .replace(/\/$/, '');
+
+      var currentPath = path.join(config.site.htmlDir, relPath)
+        .replace(/\/index$/, '')
+
       return {
         'config': config,
         'currentPath': currentPath,
         'site': config.site,
-        'templateDir': templateDir
+        'templateDir': templateDir,
+        'lastModified': lastModifiedDate ? lastModifiedDate[relPath] : null
       };
     }))
     // .pipe(vartree({
     //   root: root,
     //   prop: 'data'
     // }))
+    .pipe($.nunjucks.compile())
     .pipe($.markdown())
     .pipe($.applyTemplate({
       engine: 'nunjucks',

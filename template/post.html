@@ -3,9 +3,9 @@
 
 <div class="row row-offcanvas row-offcanvas-left">
 
-  <!--  <a class="lg-github-link btn btn-default" 
+  <!--  <a class="lg-github-link btn btn-default"
      href="{{data.config.git.repository}}">vai su github</a>-->
-  
+
   <div class="col-md-4 sidebar-offcanvas" id="sidebar">
     {% include data.templateDir + "/partials/navigation.html" %}
   </div><!--/.sidebar-offcanvas-->
@@ -13,6 +13,11 @@
   <article class="col-sm-12 col-md-8" id="main" tabindex="0">
     <h2>{{ data.title | safe }}</h2>
     {{ contents | safe }}
+    {% if data.lastModified %}
+      <p class="clearfix lg-lastmodified">
+        l'ultima modifica di questa pagina risale a {{ data.lastModified }}
+      </p>
+    {% endif %}
   </article>
 
 </div>
