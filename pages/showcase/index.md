@@ -48,7 +48,7 @@ Febbraio 2016
   <img data-src="images/showcase/image4.png" class="lazyload" alt="Dipartimento per la Funzione Pubblica - nuovo sito" />
 </div>
 
-#### [Ministero delle infrastrutture e dei Trasporti](http://http://www.mit.gov.it)
+#### [Ministero delle infrastrutture e dei Trasporti](http://www.mit.gov.it)
 
 Marzo 2016
 
@@ -70,6 +70,19 @@ Marzo 2016
   </noscript>
   <img data-src="images/showcase/image7.png" class="lazyload" alt="Ministero del Lavoro e delle Politiche Sociali - vecchio sito" />
   <img data-src="images/showcase/image8.png" class="lazyload" alt="Ministero del Lavoro e delle Politiche Sociali - nuovo sito" />
+</div>
+
+#### [Ministero dello sviluppo economico](http://www.sviluppoeconomico.gov.it//)
+
+Gennaio 2017
+
+<div class="lg-showcase">
+  <noscript>
+    ![Ministero dello sviluppo economico - vecchio sito](images/showcase/mise-vecchio-sito.png)
+    ![Ministero dello sviluppo economico - nuovo sito](images/showcase/mise-nuovo-sito.png)
+  </noscript>
+  <img data-src="images/showcase/image7.png" class="lazyload" alt="Ministero dello sviluppo economico - vecchio sito" />
+  <img data-src="images/showcase/image8.png" class="lazyload" alt="Ministero dello sviluppo economico - nuovo sito" />
 </div>
 
 ---
