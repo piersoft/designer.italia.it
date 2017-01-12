@@ -1,10 +1,10 @@
 var config = {
   "git": {
-    "repository": process.env['LG_GIT_REPOSITORY'] || "https://github.com/italia-it/designer.italia.it"
+    "repository": process.env['LG_GIT_REPOSITORY'] || "https://github.com/italia/designer.italia.it"
   },
   "deploy": {
     "cname": process.env['LG_DEPLOY_CNAME'] || "designer.italia.it",
-    "repository": process.env['LG_DEPLOY_REPOSITORY'] || "https://github.com/italia-it/designer.italia.it"
+    "repository": process.env['LG_DEPLOY_REPOSITORY'] || "https://github.com/italia/designer.italia.it"
   },
   "templates": {
     "dir": "template"
