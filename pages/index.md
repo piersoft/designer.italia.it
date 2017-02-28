@@ -8,9 +8,9 @@ published: true
 Il progetto **Italia Login** persegue la realizzazione di un ecosistema di informazioni e di servizi, secondo quanto previsto dal [piano di Crescita Digitale](http://www.agid.gov.it/agenda-digitale/agenda-digitale-italiana/crescita-digitale-banda-ultralarga), la strategia del Governo per l’innovazione del Paese. Italia Login rappresenta anche un primo passo verso la definizione di un’identità coerente per la Pubblica Amministrazione centrale.
 
 ### Ultimi aggiornamenti
-#### Dicembre 2016
+#### Gennaio 2017
 
-Pubblicazione di una prima versione del [web toolkit](https://italia-it.github.io/ita-web-toolkit/):
+Pubblicazione di una prima versione del [web toolkit](https://italia.github.io/ita-web-toolkit/):
 fogli di stile, componenti Javascript ed esempi HTML per aderire più facilmente alle Linee Guida.
 
 #### Ottobre 2016
@@ -43,7 +43,7 @@ I testi delle linee guida e il codice sorgente del sito, progettato e realizzato
 sono disponibili sulla piattaforma GitHub che contiene una
 serie di strumenti per favorire i commenti partecipativi e la gestione ottimale dell'evoluzione.
 
-#### [Repository GitHub delle linee guida](https://github.com/italia-it/designer.italia.it)
+#### [Repository GitHub delle linee guida](https://github.com/italia/designer.italia.it)
 
 ### Amministrazioni destinatarie
 

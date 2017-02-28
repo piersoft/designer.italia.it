@@ -37,6 +37,7 @@ Le voci di primo livello del menu principale di una Amministrazione comunale dov
 <li>L'Amministrazione</li>
 <li>Vivere [Nome del Comune]</li>
 <li>Menu opzionale</li>
+</ul>
 </div>
 
 L'ordine delle voci segue una logica di importanza: prima quelle tematiche orientate al pubblico principale, poi quelle più istituzionali.

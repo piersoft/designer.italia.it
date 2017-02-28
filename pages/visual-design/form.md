@@ -13,7 +13,7 @@ consentito inoltre lo spostamento da un campo all’altro tramite il tasto Tab.
 
 ### Esempio di stile per form
 
-<iframe class="lg-example" src="https://italia-it.github.io/ita-web-toolkit/components/preview/formtpl--example.html"
+<iframe class="lg-example" src="https://italia.github.io/ita-web-toolkit/components/preview/formtpl--example.html"
   style="min-height: 30em"></iframe>
 
 <!-- ![html](/images/tavola_25.png) -->
@@ -24,7 +24,7 @@ consentito inoltre lo spostamento da un campo all’altro tramite il tasto Tab.
 <mark>SI DEVE</mark> In caso di errori o di mancata compilazione dei campi di un form si dovrà sempre evidenziare in maniera immediatamente percepibile quale sia il campo, o i campi, che non soddisfano le richieste, aggiungendo l’indicazione dell’azione da compiere per il corretto completamento.
 </div>
 
-<iframe class="lg-example" src="https://italia-it.github.io/ita-web-toolkit/components/preview/formtpl--errors.html"></iframe>
+<iframe class="lg-example" src="https://italia.github.io/ita-web-toolkit/components/preview/formtpl--errors.html"></iframe>
 
 <!-- ![](/images/tavola_26.png) -->
 
@@ -37,18 +37,18 @@ e, possibilmente, tramite un'icona esplicativa.
 
 #### Alert per errori
 
-<iframe class="lg-example" src="https://italia-it.github.io/ita-web-toolkit/components/preview/alert--error.html"></iframe>
+<iframe class="lg-example" src="https://italia.github.io/ita-web-toolkit/components/preview/alert--error.html"></iframe>
 
 #### Alert per messaggi di attenzione
 
-<iframe class="lg-example" src="https://italia-it.github.io/ita-web-toolkit/components/preview/alert--warning.html"></iframe>
+<iframe class="lg-example" src="https://italia.github.io/ita-web-toolkit/components/preview/alert--warning.html"></iframe>
 
 #### Alert per messaggi di successo
 
-<iframe class="lg-example" src="https://italia-it.github.io/ita-web-toolkit/components/preview/alert--success.html"></iframe>
+<iframe class="lg-example" src="https://italia.github.io/ita-web-toolkit/components/preview/alert--success.html"></iframe>
 
 #### Alert per informazioni
 
-<iframe class="lg-example" src="https://italia-it.github.io/ita-web-toolkit/components/preview/alert--info.html"></iframe>
+<iframe class="lg-example" src="https://italia.github.io/ita-web-toolkit/components/preview/alert--info.html"></iframe>
 
 <!-- ![html](/images/tavola_27_01.png) -->

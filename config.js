@@ -11,8 +11,8 @@ var config = {
   },
   "site": {
     "downloads": {
-      "ita-bootstrap": "https://github.com/italia-it/ita-bootstrap/archive/master.zip",
-      "ita-web-toolkit": "https://italia-it.github.io/ita-web-toolkit/"
+      "ita-bootstrap": "https://github.com/italia/ita-bootstrap/archive/master.zip",
+      "ita-web-toolkit": "https://italia.github.io/ita-web-toolkit/"
     },
     "brand": process.env['LG_SITE_BRAND'] || "design.italia.it",
     "production": process.env['LG_PRODUCTION_SITE'] || "design.italia.it",

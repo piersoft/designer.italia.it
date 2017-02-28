@@ -10,7 +10,7 @@ published: true
 
 Al fine di garantire una coerenza visiva si consiglia di utilizzare icone provenienti da un unico set grafico come,
 ad esempio, quelle disponibili gratuitamente su [Font Awesome](https://fortawesome.github.io/Font-Awesome/)
-o il [set di icone incluso nel web toolkit](https://italia-it.github.io/ita-web-toolkit/components/detail/icons.html)
+o il [set di icone incluso nel web toolkit](https://italia.github.io/ita-web-toolkit/components/detail/icons.html)
 delle Linee Guida al quale è possibile contribuire proponendo integrazioni o modifiche.
 
 <div class="lg-callout lg-callout-should">

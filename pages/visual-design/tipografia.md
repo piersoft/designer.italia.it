@@ -96,7 +96,7 @@ Una tabella leggera (meno linee, meno colori) permette di concentrarsi meglio su
 
 #### Esempio di tabella con CSS di default
 
-<iframe class="lg-example" src="https://italia-it.github.io/ita-web-toolkit/components/preview/table--complex.html"></iframe>
+<iframe class="lg-example" src="https://italia.github.io/ita-web-toolkit/components/preview/table--complex.html"></iframe>
 
 #### Esempi di buona impaginazione delle tabelle
 
