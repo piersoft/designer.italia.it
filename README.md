@@ -5,8 +5,6 @@ Attualmente il progetto redazionale delle Linee Guida è nella fase "alfa". I su
 e le proposte della community contribuiranno a raggiungere una versione più stabile e di riferimento.
 
 ## Adottare lo stile delle Linee Guida
-Una volta recepiti i contribuiti dagli utenti, i CSS (o [Sass](http://sass-lang.com)) allegati alle linee guida
-potranno essere utilizzati nella progettazione dei nuovi siti web della pubblica amministrazione.
 
 È possibile utilizzare i componenti CSS / JS dell'implementazione di riferimento [web toolkit](https://italia.github.io/ita-web-toolkit/) e visualizzare gli esempi illustrati nelle linee guida. Durante la fase alfa gli elementi grafici (es. header) possono
 esser soggetti a cambiamenti.
