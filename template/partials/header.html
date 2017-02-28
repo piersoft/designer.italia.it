@@ -72,4 +72,14 @@
       </div>
     </div>
 
+    {% if data.config.deploy.cname !== data.config.site.production %}
+    <div class="lg-dev">
+      <div class="container">
+        <p class="row col-md-8 col-md-offset-4">ambiente di test per
+          <a href="//{{ data.config.site.production }}">{{ data.config.site.production }}</a>
+        </p>
+      </div>
+    </div>
+    {% endif %}
+
     <div class="container" id="page_top">

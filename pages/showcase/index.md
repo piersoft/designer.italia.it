@@ -27,8 +27,12 @@ apportare un primo parziale adeguamento, anche se il loro sito era già on line.
 Novembre 2015
 
 <div class="lg-showcase">
-  ![Governo Italiano - vecchio sito](images/showcase/image1.png)
-  ![Governo Italiano - nuovo sito](images/showcase/image2.png)
+  <noscript>
+    ![Governo Italiano - vecchio sito](images/showcase/image1.png)
+    ![Governo Italiano - nuovo sito](images/showcase/image2.png)
+  </noscript>
+  <img data-src="images/showcase/image1.png" class="lazyload" alt="Governo Italiano - vecchio sito" />
+  <img data-src="images/showcase/image2.png" class="lazyload" alt="Governo Italiano - nuovo sito" />
 </div>
 
 #### [Dipartimento per la Funzione Pubblica della Presidenza del Consiglio dei Ministri](http://www.funzionepubblica.gov.it)
@@ -36,24 +40,49 @@ Novembre 2015
 Febbraio 2016
 
 <div class="lg-showcase">
-  ![Dipartimento per la Funzione Pubblica - vecchio sito](images/showcase/image3.png)
-  ![Dipartimento per la Funzione Pubblica - nuovo sito](images/showcase/image4.png)
+  <noscript>
+    ![Dipartimento per la Funzione Pubblica - vecchio sito](images/showcase/image3.png)
+    ![Dipartimento per la Funzione Pubblica - nuovo sito](images/showcase/image4.png)
+  </noscript>
+  <img data-src="images/showcase/image3.png" class="lazyload" alt="Dipartimento per la Funzione Pubblica - vecchio sito" />
+  <img data-src="images/showcase/image4.png" class="lazyload" alt="Dipartimento per la Funzione Pubblica - nuovo sito" />
 </div>
 
-#### [Ministero delle infrastrutture e dei Trasporti](http://http://www.mit.gov.it)
+#### [Ministero delle infrastrutture e dei Trasporti](http://www.mit.gov.it)
 
 Marzo 2016
 
 <div class="lg-showcase">
-  ![Ministero delle infrastrutture e dei Trasporti - vecchio sito](images/showcase/image5.png)
-  ![Ministero delle infrastrutture e dei Trasporti - nuovo sito](images/showcase/image6.png)
+  <noscript>
+    ![Ministero delle infrastrutture e dei Trasporti - vecchio sito](images/showcase/image5.png)
+    ![Ministero delle infrastrutture e dei Trasporti - nuovo sito](images/showcase/image6.png)
+  </noscript>  
+  <img data-src="images/showcase/image5.png" class="lazyload" alt="Ministero delle infrastrutture e dei Trasporti - vecchio sito" />
+  <img data-src="images/showcase/image6.png" class="lazyload" alt="Ministero delle infrastrutture e dei Trasporti - nuovo sito" />
 </div>
 
 #### [Ministero del Lavoro e delle Politiche Sociali](http://www.lavoro.gov.it/)
 
 <div class="lg-showcase">
-  ![Ministero del Lavoro e delle Politiche Sociali - vecchio sito](images/showcase/image7.png)
-  ![Ministero del Lavoro e delle Politiche Sociali - nuovo sito](images/showcase/image8.png)
+  <noscript>
+    ![Ministero del Lavoro e delle Politiche Sociali - vecchio sito](images/showcase/image7.png)
+    ![Ministero del Lavoro e delle Politiche Sociali - nuovo sito](images/showcase/image8.png)
+  </noscript>
+  <img data-src="images/showcase/image7.png" class="lazyload" alt="Ministero del Lavoro e delle Politiche Sociali - vecchio sito" />
+  <img data-src="images/showcase/image8.png" class="lazyload" alt="Ministero del Lavoro e delle Politiche Sociali - nuovo sito" />
+</div>
+
+#### [Ministero dello sviluppo economico](http://www.sviluppoeconomico.gov.it//)
+
+Gennaio 2017
+
+<div class="lg-showcase">
+  <noscript>
+    ![Ministero dello sviluppo economico - vecchio sito](images/showcase/mise-vecchio-sito.png)
+    ![Ministero dello sviluppo economico - nuovo sito](images/showcase/mise-nuovo-sito.png)
+  </noscript>
+  <img data-src="images/showcase/mise-vecchio-sito.png" class="lazyload" alt="Ministero dello sviluppo economico - vecchio sito" />
+  <img data-src="images/showcase/mise-nuovo-sito.png" class="lazyload" alt="Ministero dello sviluppo economico - nuovo sito" />
 </div>
 
 ---
@@ -67,8 +96,12 @@ Nel luglio 2016 sono state rilasciate le indicazioni per lo sviluppo dei siti we
 Luglio 2016
 
 <div class="lg-showcase">
-  ![Portale della Regione Sardegna - vecchio sito](images/showcase/image22.png)
-  ![Portale della Regione Sardegna - nuovo sito](images/showcase/image23.png)
+  <noscript>
+    ![Portale della Regione Sardegna - vecchio sito](images/showcase/image22.png)
+    ![Portale della Regione Sardegna - nuovo sito](images/showcase/image23.png)
+  </noscript>
+  <img data-src="images/showcase/image22.png" class="lazyload" alt="Portale della Regione Sardegna - vecchio sito" />
+  <img data-src="images/showcase/image23.png" class="lazyload" alt="Portale della Regione Sardegna - nuovo sito" />
 </div>
 
 #### [Comune di Biella](http://www.comune.biella.it)
@@ -76,8 +109,12 @@ Luglio 2016
 Luglio 2016
 
 <div class="lg-showcase">
-  ![Comune di Biella - vecchio sito](images/showcase/image18.png)
-  ![Comune di Biella - nuovo sito](images/showcase/image19.png)
+  <noscript>
+    ![Comune di Biella - vecchio sito](images/showcase/image18.png)
+    ![Comune di Biella - nuovo sito](images/showcase/image19.png)
+  </noscript>
+  <img data-src="images/showcase/image18.png" class="lazyload" alt="Comune di Biella - vecchio sito" />
+  <img data-src="images/showcase/image19.png" class="lazyload" alt="Comune di Biella - nuovo sito" />
 </div>
 
 #### [Comune di  Matera](http://www.comune.matera.it)
@@ -85,8 +122,12 @@ Luglio 2016
 Luglio 2016
 
 <div class="lg-showcase">
-  ![Comune di  Matera - vecchio sito](images/showcase/image16.png)
-  ![Comune di  Matera - nuovo sito](images/showcase/image17.png)
+  <noscript>
+    ![Comune di  Matera - vecchio sito](images/showcase/image16.png)
+    ![Comune di  Matera - nuovo sito](images/showcase/image17.png)
+  </noscript>
+  <img data-src="images/showcase/image16.png" class="lazyload" alt="Comune di Matera - vecchio sito" />
+  <img data-src="images/showcase/image17.png" class="lazyload" alt="Comune di Matera - nuovo sito" />
 </div>
 
 #### [Comune di Venezia](http://www.comune.venezia.it)
@@ -94,8 +135,25 @@ Luglio 2016
 Giugno 2016
 
 <div class="lg-showcase">
-  ![Comune di Venezia - vecchio sito](images/showcase/image20.png)
-  ![Comune di Venezia - nuovo sito](images/showcase/image21.png)
+  <noscript>
+    ![Comune di Venezia - vecchio sito](images/showcase/image20.png)
+    ![Comune di Venezia - nuovo sito](images/showcase/image21.png)
+  </noscript>
+  <img data-src="images/showcase/image20.png" class="lazyload" alt="Comune di Venezia - vecchio sito" />
+  <img data-src="images/showcase/image21.png" class="lazyload" alt="Comune di Venezia - nuovo sito" />
+</div>
+
+#### [Comune di Eraclea](http://www.comune.eraclea.ve.it/)
+
+Gennaio 2017
+
+<div class="lg-showcase">
+  <noscript>
+    ![Comune di Eraclea - vecchio sito](images/showcase/eraclea-1.png)
+    ![Comune di Eraclea - nuovo sito](images/showcase/eraclea-2.png)
+  </noscript>
+  <img data-src="images/showcase/eraclea-1.png" class="lazyload" alt="Comune di Eraclea - vecchio sito" />
+  <img data-src="images/showcase/eraclea-2.png" class="lazyload" alt="Comune di Eraclea - nuovo sito" />
 </div>
 
 ---
@@ -107,8 +165,12 @@ Giugno 2016
 Maggio 2016
 
 <div class="lg-showcase">
-  ![Direzione Generale dei musei - vecchio sito](images/showcase/image11.png)
-  ![Direzione Generale dei musei - nuovo sito](images/showcase/image12.png)
+  <noscript>
+    ![Direzione Generale dei musei - vecchio sito](images/showcase/image11.png)
+    ![Direzione Generale dei musei - nuovo sito](images/showcase/image12.png)
+  </noscript>
+  <img data-src="images/showcase/image11.png" class="lazyload" alt="Direzione Generale dei musei - vecchio sito" />
+  <img data-src="images/showcase/image12.png" class="lazyload" alt="Direzione Generale dei musei - nuovo sito" />
 </div>
 
 #### [Opencantieri](http://opencantieri.mit.gov.it)
@@ -116,7 +178,10 @@ Maggio 2016
 Maggio 2016
 
 <div class="lg-showcase">
-  ![Opencantieri](images/showcase/image13.png)
+  <noscript>
+    ![Opencantieri](images/showcase/image13.png)
+  </noscript>
+  <img data-src="images/showcase/image13.png" class="lazyload" alt="Opencantieri - sito" />
 </div>
 
 #### [Dichiarazione Precompilata 730, Agenzia delle Entrate](https://infoprecompilata.agenziaentrate.gov.it)
@@ -124,7 +189,10 @@ Maggio 2016
 Aprile 2016
 
 <div class="lg-showcase">
-  ![Dichiarazione Precompilata 730](images/showcase/image14.png)
+  <noscript>
+    ![Dichiarazione Precompilata 730](images/showcase/image14.png)
+  </noscript>
+  <img data-src="images/showcase/image14.png" class="lazyload" alt="Dichiarazione Precompilata 730 - sito" />
 </div>
 
 #### [Piano Strategico Banda Ultralarga](http://bandaultralarga.italia.it)
@@ -132,5 +200,8 @@ Aprile 2016
 Giugno 2016
 
 <div class="lg-showcase">
-  ![Piano Strategico Banda Ultralarga](images/showcase/image15.png)
+  <noscript>
+    ![Piano Strategico Banda Ultralarga](images/showcase/image15.png)
+  </noscript>
+  <img data-src="images/showcase/image15.png" class="lazyload" alt="Piano Strategico Banda Ultralarga - sito" />
 </div>

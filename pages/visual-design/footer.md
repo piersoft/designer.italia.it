@@ -8,7 +8,10 @@ published: true
 
 La struttura del footer è suddivisa in 2 aree funzionali.
 
+<noscript>
 ![](/images/header/image01.png)
+</noscript>
+<img data-src="/images/header/image01.png" class="lazyload" alt="" />
 
 #### 1. Barra di feedback
 
@@ -41,8 +44,14 @@ Il testo normale e i titoli delle sezioni appaiono in bianco (#ffffff).
 
 #### Esempio desktop 1440
 
+<noscript>
 ![](/images/header/image04.png)
+</noscript>
+<img data-src="/images/header/image04.png" class="lazyload" alt="" />
 
 #### Esempio mobile 320
 
+<noscript>
 ![](/images/header/image05.png)
+</noscript>
+<img data-src="/images/header/image05.png" class="lazyload" alt="" />

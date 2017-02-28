@@ -305,4 +305,16 @@ iframe.lg-example {
   float: left;
   clear: both;
   margin-bottom: 1em;
+
+.lg-lastmodified {
+  color: #555;
+  font-style: italic;
+  margin-top: 5rem;
+}
+
+.lg-dev {
+  padding-top: 1em;
+  font-size: 14px;
+  font-weight: bold;
+  background: #ffef9f;
 }
