@@ -28,5 +28,5 @@ rimanga agevole.
 --------------------------------- | --------------------------------------
 | Smartphone<br>(&lt; 768 px)     | 16 px                                |
 | Tablet<br>(&lt; 992 px)         | 16 px                                |
-| Desktop<br>(&lt; 1440 px)       | 24 px                                |
-| Desktop<br>(&gt; 1440 px)       | 24 px                                |
+| Desktop<br>(&lt; 1366 px)       | 24 px                                |
+| Desktop<br>(&gt; 1366 px)       | 24 px                                |

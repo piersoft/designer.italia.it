@@ -6,7 +6,7 @@ published: true
 
 ### Bottone accesso SPID
 
-[Download Bottone SP Accesso SPID](https://github.com/italia-it/spid-sp-access-button/releases/latest)
+[Download Bottone SP Accesso SPID](https://github.com/italia/spid-sp-access-button/releases/latest)
 
 Il bottone di accesso a SPID per Service Provider è presentato in 4 dimensioni (s/m/l/xl).
 

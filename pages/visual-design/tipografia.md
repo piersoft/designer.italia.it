@@ -13,7 +13,6 @@ Il carattere tipografico istituzionale è la famiglia di font [Titillium Web](ht
 
 #### Specimen della famiglia Titillium Web
 
-```markup
 <div class="lg-example-titillium">
 <p class="font-extra-light">
   Ecco un bianco scenario per tratteggiarvi l'accompagnamento degli oggetti di sfondo
@@ -60,7 +59,6 @@ Il carattere tipografico istituzionale è la famiglia di font [Titillium Web](ht
   <small>ultra-bold</small>
 </p>
 </div>
-```
 
 <div class="lg-callout lg-callout-could">
 <mark>SI PUÒ</mark> Per la realizzazione dei siti è consigliato l’utilizzo del carattere Titillium Web, ma qualunque altra Web font che garantisca la leggibilità e un’analoga ampiezza di pesi tipografici può essere usata.
@@ -98,46 +96,7 @@ Una tabella leggera (meno linee, meno colori) permette di concentrarsi meglio su
 
 #### Esempio di tabella con CSS di default
 
-```markup
-<div class="table-responsive">
-<table class="table-striped">
-  <thead>
-    <tr>
-      <th>#</th>
-      <th>Posizione</th>
-      <th>Luogo di lavoro</th>
-      <th>Contatto candidatura</th>
-    </tr>
-  </thead>
-<tbody>
-  <tr>
-    <td>1</td>
-    <td>Addetto anagrafe</td>
-    <td>Ufficio anagrafe Roma</td>
-    <td>posizioni_aperte@anag.it</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Portalettere</td>
-    <td>Poste centrali Roma</td>
-    <td>posizioni_aperte@poste.it</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Urbanista</td>
-    <td>Urbanistica Roma</td>
-    <td>posizioni_aperte@urban.it</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Contabile</td>
-    <td>Comune Roma</td>
-    <td>posizioni_aperte@contab.it</td>
-  </tr>
-</tbody>
-</table>
-</div>
-```
+<iframe class="lg-example" src="https://italia.github.io/ita-web-toolkit/components/preview/table--complex.html"></iframe>
 
 #### Esempi di buona impaginazione delle tabelle
 
@@ -151,7 +110,6 @@ Una tabella leggera (meno linee, meno colori) permette di concentrarsi meglio su
 
 <!-- ![html](/images/formattazioni-tipografiche.png) -->
 
-```markup
 <div class="lg-example-tipografia">
 <div>
   <h1>H1 Titolo</h1>
@@ -205,7 +163,6 @@ Una tabella leggera (meno linee, meno colori) permette di concentrarsi meglio su
   <small><strong>testo minimo</strong>: Titillium normal - corpo 15px, interlinea 1.55</small>
 </div>
 </div>
-```
 
 <!-- ![html](/images/stili-tipografici.png) -->
 

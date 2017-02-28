@@ -12,6 +12,6 @@ Il layout di accesso è diviso per i diversi livelli e fasi di autenticazione.
 La struttura deve rimanere come presentata e può variare solo per
 funzionalità accessorie non gestibili diversamente.
 
-[Download layout login IDP SPID](https://github.com/italia-it/spid-idp-login-layout/releases/latest)
+[Download layout login IDP SPID](https://github.com/italia/spid-idp-login-layout/releases/latest)
 
 ![Layout per login tramite SPID](/images/spid-login.png)
