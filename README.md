@@ -7,10 +7,9 @@ e le proposte della community contribuiranno a raggiungere una versione più sta
 ## Adottare lo stile delle Linee Guida
 Una volta recepiti i contribuiti dagli utenti, i CSS (o [Sass](http://sass-lang.com)) allegati alle linee guida
 potranno essere utilizzati nella progettazione dei nuovi siti web della pubblica amministrazione.
-Al momento è prevista l'implementazione come tema del framework CSS [Bootstrap](http://getbootstrap.com/).
 
-È possibile scaricare la [versione corrente del CSS](https://github.com/italia-it/ita-bootstrap) e visualizzare gli [esempi dei componenti HTML](http://italia.github.io/ita-bootstrap/) illustrati nelle linee guida. Durante la fase alfa tali stili sono soggetti a cambiamenti.
-Per contribuire fare riferimento alle [istruzioni per l'utilizzo e la compilazione dei sorgenti Sass](https://github.com/italia-it/ita-bootstrap/blob/master/README.md).
+È possibile utilizzare i componenti CSS / JS dell'implementazione di riferimento [web toolkit](https://italia.github.io/ita-web-toolkit/) e visualizzare gli esempi illustrati nelle linee guida. Durante la fase alfa gli elementi grafici (es. header) possono
+esser soggetti a cambiamenti.
 
 ## Contribuire al progetto
 Per inviare i commenti è necessario avere un account su [GitHub](https://github.com/), o [creare un account nuovo](https://github.com/join).
