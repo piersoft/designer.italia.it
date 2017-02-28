@@ -25,6 +25,7 @@ vanno applicate nella progettazione dei siti istituzionali e tematici.
 <div class="lg-callout lg-callout-could">
 <mark>SI PUÒ</mark>
 <p>La testata può inoltre contenere una o più delle seguenti funzionalità:</p>
+<ul>
 <li>campo di ricerca</li>
 <li>accesso diretto ai servizi (al form di login)</li>
 <li>link ai social network</li>
