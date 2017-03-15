@@ -13,6 +13,7 @@ alla versione `alfa` delle linee guida AgID.
     <li><a href="#pac">Pubbliche amministrazioni centrali</a>
     <li><a href="#pal">Pubbliche amministrazioni locali</a>
     <li><a href="#siti-tematici">Siti tematici</a>
+    <li><a href="#partecipate">Aziende partecipate</a>
   </ul>
 </nav>
 
@@ -204,4 +205,19 @@ Giugno 2016
     ![Piano Strategico Banda Ultralarga](images/showcase/image15.png)
   </noscript>
   <img data-src="images/showcase/image15.png" class="lazyload" alt="Piano Strategico Banda Ultralarga - sito" />
+</div>
+
+### <a name="siti-tematici">Aziende partecipate</a>
+
+#### [Sotacarbo](http://www.sotacarbo.it/)
+
+Gennaio 2017
+
+<div class="lg-showcase">
+  <noscript>
+    ![Sotacarbo - vecchio sito](images/showcase/sotacarbo-vecchio-sito.png)
+    ![Sotacarbo - nuovo sito](images/showcase/sotacarbo-nuovo.png)
+  </noscript>
+  <img data-src="images/showcase/sotacarbo-vecchio-sito.png" class="lazyload" alt="Sotacarbo - vecchio sito" />
+  <img data-src="images/showcase/sotacarbo-nuovo-sito.png" class="lazyload" alt="Sotacarbo - nuovo sito" />
 </div>
