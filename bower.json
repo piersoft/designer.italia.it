@@ -21,7 +21,7 @@
     "bootstrap-sass": "~3.3.5",
     "jquery.cookiebar": "~1.2.1",
     "jquery.cookie": "~1.4.1",
-    "venobox": "~1.6.0",
+    "venobox": "~1.8.2",
     "lazysizes": "^2.0.7"
   }
 }
